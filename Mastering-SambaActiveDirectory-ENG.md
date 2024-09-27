@@ -12,7 +12,7 @@ Finally, Samba 4 provided the setup and management services for a Domain and Act
 Named after the file and printer sharing protocol SMB, Samba has become a great tool for us thanks to the outstanding work of Andrew Triggel and the Samba Team. <br>
 And today, we have an excellent option for setting up and managing Domain and Active Directory environments in production environments. <br>
 <br>
-**On Paradigm Shift**
+**On Paradigm Shift** <br>
 I'm not sure the paradigm example is the best fit for this work. <br>
 <br>
 If we define paradigm as the accepted way of doing things in a particular field, then Samba software is a great example of a paradigm shifter because it offers an alternative solution. <br>
