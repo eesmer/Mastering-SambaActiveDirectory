@@ -22,7 +22,6 @@ Historically, paradigm shifts have been a way to bring about positive change. Bu
 Regardless of whether this topic is the perfect example of a paradigm shift or if it's causing what's known as "paradigm paralysis," which makes it harder to learn and grow, we can still evaluate this work by focusing on the potential of open-source alternatives in the IT world today. <br>
 <br>
 Then, we can get started. <br>
-<br>
 
 **Acknowledgements** <br>
 It's impossible not to acknowledge the efforts behind this work. <br>
@@ -30,7 +29,6 @@ Special thanks to the Samba project team and Andrew Triggel for their incredible
 Samba4 is a remarkable achievement. <br>
 <br>
 My goal with this work is to offer guidance and consistent study notes to Samba users and to those who are interested in learning and using Samba. <br>
-<br>
 
 **Document Structure and Usage** <br>
 This work will be kept electronically in this repository. <br>
