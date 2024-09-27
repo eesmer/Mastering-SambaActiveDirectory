@@ -19,3 +19,8 @@ Geçerli modele fazlasıyla bağlılık, yeni modeli kabul edip geçmeye engel o
 Ne öğrenmeye ve gelişime engel olan paradigma felcine ne de bu konu için paradigma değişimi örneğinin uygun olup olmadığına bakmaksızın günümüzde IT dünyasındaki açık kaynak alternatiflerin gücüne ve bize kattıklarına odaklanarak; <br>
 bunları anlama eğilimi ile bu çalışmayı değerlendirebilirsiniz.. <br>
 O zaman başlayabiliriz.. <br>
+<br>
+Bu çalışma; <br>
+Active Directory kavramlarına temel olarak değinecek olsa da asıl amaç;
+Üretim ortamı senaryoları ile kurulum, yapılandırma, bakım ve problem giderme gereksinimleri için SambaAD incelemesi ve pratik çalışmalarını yapmaktır.
+Bu çalışma ile baştan Active Directory öğrenme ve Samba ile Active Directory ortamını kullanmayı tüm yönleriyle elde edeceksiniz.
