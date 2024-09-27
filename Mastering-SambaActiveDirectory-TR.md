@@ -36,3 +36,5 @@ Bu çalışma, bu repoda elektronik olarak tutulacaktır. <br>
 Türkçe, İngilizce ve indirilebilir PDF dosyası formatları da buradan erişilebilir olacaktır. <br>
 <br>
 Yapılan çalışmalar buradan güncellenecektir. <br>
+<br>
+**Güncelleme:** 28 Eylül 2024
