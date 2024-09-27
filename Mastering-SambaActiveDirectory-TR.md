@@ -14,3 +14,8 @@ Ve bugün büyük üretim ortamlarında Domain ve Active Directory ortamının k
 **Paradigma Değişikliğine Dair** <br>
 Bu çalışma konusunda paradigma örneği ne kadar uygun olur, bilmiyorum. <br>
 Paradigma, bir alandaki geçerli modeli ifade ediyorsa eğer Samba yazılımı, alternatif sunduğu çözüm için tipik bir paradigma değiştiricisidir. <br>
+Paradigma değişimi, tarihte ve bilimde her zaman olumlu değişimleri örneklemiştir. <br>
+Geçerli modele fazlasıyla bağlılık, yeni modeli kabul edip geçmeye engel oluşturabilir. <br> 
+Ne öğrenmeye ve gelişime engel olan paradigma felcine ne de bu konu için paradigma değişimi örneğinin uygun olup olmadığına bakmaksızın günümüzde IT dünyasındaki açık kaynak alternatiflerin gücüne ve bize kattıklarına odaklanarak; <br>
+bunları anlama eğilimi ile bu çalışmayı değerlendirebilirsiniz.. <br>
+O zaman başlayabiliriz.. <br>
