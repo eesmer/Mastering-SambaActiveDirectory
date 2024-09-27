@@ -29,3 +29,4 @@ It's impossible not to acknowledge the efforts behind this work. <br>
 Special thanks to the Samba project team and Andrew Triggel for their incredible contributions. <br>
 Samba4 is a remarkable achievement. <br>
 <br>
+My goal with this work is to offer guidance and consistent study notes to Samba users and to those who are interested in learning and using Samba. <br>
