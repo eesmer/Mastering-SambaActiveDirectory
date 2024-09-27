@@ -18,3 +18,5 @@ I'm not sure the paradigm example is the best fit for this work. <br>
 <br>
 If we define paradigm as the accepted way of doing things in a particular field, then Samba software is a great example of a paradigm shifter because it offers an alternative solution. <br>
 Historically, paradigm shifts have been a way to bring about positive change. But sometimes, sticking too closely to the current model can get in the way of  new ideas. <br>
+<br>
+Regardless of whether this topic is the perfect example of a paradigm shift or if it's causing what's known as "paradigm paralysis," which makes it harder to learn and grow, we can still evaluate this work by focusing on the potential of open-source alternatives in the IT world today. <br>
