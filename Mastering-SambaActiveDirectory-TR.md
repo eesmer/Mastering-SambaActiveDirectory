@@ -21,6 +21,7 @@ bunları anlama eğilimi ile bu çalışmayı değerlendirebilirsiniz.. <br>
 O zaman başlayabiliriz.. <br>
 <br>
 Bu çalışma; <br>
-Active Directory kavramlarına temel olarak değinecek olsa da asıl amaç;
-Üretim ortamı senaryoları ile kurulum, yapılandırma, bakım ve problem giderme gereksinimleri için SambaAD incelemesi ve pratik çalışmalarını yapmaktır.
-Bu çalışma ile baştan Active Directory öğrenme ve Samba ile Active Directory ortamını kullanmayı tüm yönleriyle elde edeceksiniz.
+Active Directory kavramlarına temel olarak değinecek olsa da asıl amaç; <br>
+Üretim ortamı senaryoları ile kurulum, yapılandırma, bakım ve problem giderme gereksinimleri için SambaAD incelemesi ve pratik çalışmalarını yapmaktır. <br>
+Bu çalışma ile baştan Active Directory öğrenme ve Samba ile Active Directory ortamını kullanmayı tüm yönleriyle elde edeceksiniz. <br>
+<br>
