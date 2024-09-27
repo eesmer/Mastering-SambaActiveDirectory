@@ -9,3 +9,5 @@ The Samba software project, which began development in 1991 with the aim of enab
 <br>
 Finally, Samba 4 provided the setup and management services for a Domain and Active Directory environment. <br>
 <br>
+Named after the file and printer sharing protocol SMB, Samba has become a great tool for us thanks to the outstanding work of Andrew Triggel and the Samba Team. <br>
+And today, we have an excellent option for setting up and managing Domain and Active Directory environments in production environments. <br>
