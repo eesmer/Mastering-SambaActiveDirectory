@@ -32,6 +32,7 @@ Samba4 çok büyük bir iş ve büyük bir başarıdır. <br>
 Bu çalışmadaki amaç; Samba kullanıcılarına ve tanıyıp kullanmak isteyenlere doküman ve düzenli çalışma notları verebilmektir. <br>
 <br>
 **Belgenin Yapısı ve Kullanımı** <br>
-Bu çalışma, bu repoda elektronik olarak tutulacaktır. Türkçe, İngilizce ve indirilebilir PDF dosyası formatları da buradan erişilebilir olacaktır. <br>
+Bu çalışma, bu repoda elektronik olarak tutulacaktır. <br>
+Türkçe, İngilizce ve indirilebilir PDF dosyası formatları da buradan erişilebilir olacaktır. <br>
 <br>
 Yapılan çalışmalar gerekli olduğunda buradan güncellenecektir. <br>
