@@ -11,7 +11,6 @@ Finally, Samba 4 provided the setup and management services for a Domain and Act
 <br>
 Named after the file and printer sharing protocol SMB, Samba has become a great tool for us thanks to the outstanding work of Andrew Triggel and the Samba Team. <br>
 And today, we have an excellent option for setting up and managing Domain and Active Directory environments in production environments. <br>
-<br>
 
 **On Paradigm Shift** <br>
 I'm not sure the paradigm example is the best fit for this work. <br>
