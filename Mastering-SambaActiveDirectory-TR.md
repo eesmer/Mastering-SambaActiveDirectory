@@ -11,6 +11,6 @@ Adını dosya ve yazıcı paylaşım protokolü SMB’den alan Samba, Andrew Tri
 <br>
 Ve bugün büyük üretim ortamlarında Domain ve Active Directory ortamının kurulumu ve yönetimi için kullanabileceğimiz mükemmel bir seçeneğimiz var. <br>
 <br>
-**Paradigma Değişikliğine Dair**
+**Paradigma Değişikliğine Dair** <br>
 Bu çalışma konusunda paradigma örneği ne kadar uygun olur, bilmiyorum. <br>
 Paradigma, bir alandaki geçerli modeli ifade ediyorsa eğer Samba yazılımı, alternatif sunduğu çözüm için tipik bir paradigma değiştiricisidir. <br>
