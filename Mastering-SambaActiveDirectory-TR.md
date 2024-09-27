@@ -10,3 +10,7 @@ Ve Samba4 ile bir Domain ve Active Directory ortamı kurulum ve yönetim hizmeti
 Adını dosya ve yazıcı paylaşım protokolü SMB’den alan Samba, Andrew Triggel ve Samba Team ekibinin eşsiz çalışmalarıyla bizim için harika bir araç olmuştur. <br>
 <br>
 Ve bugün büyük üretim ortamlarında Domain ve Active Directory ortamının kurulumu ve yönetimi için kullanabileceğimiz mükemmel bir seçeneğimiz var. <br>
+<br>
+**Paradigma Değişikliğine Dair**
+Bu çalışma konusunda paradigma örneği ne kadar uygun olur, bilmiyorum. <br>
+Paradigma, bir alandaki geçerli modeli ifade ediyorsa eğer Samba yazılımı, alternatif sunduğu çözüm için tipik bir paradigma değiştiricisidir. <br>
