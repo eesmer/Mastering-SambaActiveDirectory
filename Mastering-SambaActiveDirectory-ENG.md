@@ -30,3 +30,8 @@ Special thanks to the Samba project team and Andrew Triggel for their incredible
 Samba4 is a remarkable achievement. <br>
 <br>
 My goal with this work is to offer guidance and consistent study notes to Samba users and to those who are interested in learning and using Samba. <br>
+<br>
+
+**Document Structure and Usage** <br>
+This work will be kept electronically in this repository. <br>
+It is available in Turkish, English and PDF format. <br>
