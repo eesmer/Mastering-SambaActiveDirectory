@@ -33,3 +33,10 @@ My goal with this work is to offer guidance and consistent study notes to Samba 
 **Document Structure and Usage** <br>
 This work will be kept electronically in this repository. <br>
 It is available in Turkish, English and PDF format. <br>
+<br>
+
+The study will be updated here. <br>
+
+**Update:** September 28, 2024 <br>
+
+Update: September 28, 2024
