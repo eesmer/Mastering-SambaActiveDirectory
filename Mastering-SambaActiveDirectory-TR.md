@@ -174,3 +174,12 @@ Kullanıcı oturumu açılır ve profil ayarları, ağ bağlantıları gibi poli
 <br>
 Login, kullanıcı hesabının kim olduğunu belirler, oturum başlatmaz. <br>
 Logon, login sonrası kullanıcı hesabına ait bir oturum başlatır. <br>
+        ◦ Security ID (SID) <br>
+Domain ortamında oluşturulan bir bilşenin (kullanıcı adı, bilgisayar) <br>
+SID, güvenlik ve erişim denetimlerinde kullanılmak üzere domain ortamındaki her kullanıcı, grup ve bilgisayar nesnesi için oluşturulan benzersiz bir kimlik tanımlayıcısıdır. <br>
+        ◦ Access Token <br>
+Kullanıcı hesabı veya bir oturum açma sürecine atanan kimlik bilgilerini ve izinleri içeren bir listedir. Bu bir kullanıcının ortama nasıl ve hangi kaynaklara erişebileceğini belirler. <br>
+        ◦ Kerberos Ticket <br>
+        ◦ Access Control List (ACL) <br>
+Access Control List, dosya, dizin, ağ paylaşımı gibi bir kaynağa kimlerin hangi seviyede erişim yapacağını tutan bir listedir. <br>
+<br>
