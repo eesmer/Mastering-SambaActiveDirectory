@@ -198,3 +198,16 @@ Kerberos protokolü aşağıdaki işlevleri sağlar; <br>
     • Single Sign-On <br>
     • Authorization <br>
 <br>
+
+**Kerberos Tickets** <br>
+Kullanıcı bir kez kimlik doğrulaması yaptıktan sonra kullanıcıya Ticket Granting Ticket (TGT) verilir. <br>
+Bu TGT ile farklı hizmetlere erişim için Service Ticket sağlanır. <br>
+<br>
+Böylece aynı oturumda farklı hizmet ve uygulamalara erişim sağlanırken tekrar tekrar kimlik doğrulaması yapılmasına gerek kalmaz. Bunun için Kerberos Tickets kullanılır. <br>
+Kerberos Tickets, kullanıcının kimliğini ve oturumunu kanıtlayan şifreli anahtarlar içerir. <br>
+<br>
+Kerberos Tickets, geçerlilikleri süreyle sınırlıdır. <br>
+<br>
+**TGT Süresi:** Kullanıcıya logon ile verilen TGT biletinin varsayılan geçerlilik süresi 10 saatir. <br>
+**Ticket Renewal:** Kerberos Tickets yenilenebilir. Yenilenebilme süresi varsayılan olarak 7 gündür. <br>
+Yenileme geçerlilik süresi, TGT’nin geçerlilik süresi dolduğunda tekrar kimlik doğrulaması yapılmadan yenilenmesi için kullanılır. <br>
