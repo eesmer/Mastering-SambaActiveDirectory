@@ -2,6 +2,7 @@
 
 - [Önsöz](#%C3%B6nsöz)
 - [Teşekkür](#te%C5%9Fekkür)
+- [Belgenin Yapısı ve Kullanımı](#Belgenin-Yapısı-ve-Kullanımı)
 
 ## Önsöz
 Samba yazılım paketi ile kurulan SambaAD, Microsoft Active Directory hizmetlerini sunmak üzere geliştirilen ve  GPLv3 lisansı ile dağıtılan bir açık kaynak yazılımdır. <br>
@@ -30,13 +31,13 @@ Active Directory kavramlarına temel olarak değinecek olsa da asıl amaç; <br>
 Üretim ortamı senaryoları ile kurulum, yapılandırma, bakım ve problem giderme gereksinimleri için SambaAD incelemesi ve pratik çalışmalarını yapmaktır. <br>
 Bu çalışma ile baştan Active Directory öğrenme ve Samba ile Active Directory ortamını kullanmayı tüm yönleriyle elde edeceksiniz. <br>
 <br>
-# Teşekkür
+#### Teşekkür
 Bu çalışmada bu satırları yazmazsak olmaz. <br>
 Özellikle Samba proje ekibi ve Andrew Triggel’e böylesine harika bir çalışma için çok teşekkürler.. <br>
 Samba4 çok büyük bir iş ve büyük bir başarıdır. <br>
 Bu çalışmadaki amaç; Samba kullanıcılarına ve tanıyıp kullanmak isteyenlere doküman ve düzenli çalışma notları verebilmektir. <br>
-<br>
-**Belgenin Yapısı ve Kullanımı** <br>
+
+#### Belgenin Yapısı ve Kullanımı
 Bu çalışma, bu repoda elektronik olarak tutulacaktır. <br>
 Türkçe, İngilizce ve indirilebilir PDF dosyası formatları da buradan erişilebilir olacaktır. <br>
 <br>
