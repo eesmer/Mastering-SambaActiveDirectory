@@ -159,7 +159,6 @@ Bu roller, Forest ve Domain düzeyinde Domain Controller sunucular tarafından �
 Bir Domain ortamının başka bir Domain ortamına güvenmesi anlamına gelir. <br>
 Güven ilişkileri sayesinde bir Domain ortamının kaynaklarına, diğer Domain ortamındaki kullanıcılar erişebilir. <br>
 Bu güven ilişkileri, tek yönlü ya da çift yönlü olabilir ve genellikle Forest içindeki Domain ortamları arasında kurulur. <br>
-<br>
 
 **Login** <br>
 Login bir kullanıcı hesabının kimlik doğrulama sürecidir. <br>
