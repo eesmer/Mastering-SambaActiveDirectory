@@ -61,6 +61,7 @@ Active Directory, ağ kullanıcıları için kaynak dizini görevi gören bir di
 Bu dizin hizmeti ile bir veritabanında kullanıcılar, bilgisayarlar, yazıcılar gibi organizasyonun tüm bilgileri saklanır. <br>
 Organizasyondaki tüm bileşenlere (bu esasında bir kimliktir) yönetimsel kısıtlamalar oluşturulabilir ve ihtiyaçlar doğrultusunda kurallar işletilebilir.
 Active Directory, bir DC makinesi kurularak çalıştırılır. <br>
+<br>
 Bir kullanıcı hesabı, domain ortamındaki bir bilgisayarda oturum açtığında; <br>
 Active Directory, girilen kullanıcı adı ve parolayı kontrol eder. <br>
 Oturum açabilen bir giriş bilgisi sağlandıysa AD politikaları ile yetkilendirilir ve aldığı yetkiye göre ağ kaynaklarına erişim sağlar. <br>
