@@ -115,6 +115,7 @@ Domain Controller temel olarak aşağıdaki işleri yapar; <br>
             ▪ FSMO Rolleri <br>
             ▪ Grup Politika Yönetimi <br>
 <br>
+
 **Domain Join** <br>
 Domain Join, bir bilgisayarın veya cihazın, Active Directory (AD) domain ortamına dahil edilmesi sürecidir. <br>
 Join kavramı genel olarak üye olmayı ifade etmekte kullanılır. <br>
@@ -127,4 +128,15 @@ Domain Controller bilgisayar, join işlemini ve join olmuş bilgisayarın kaynak
 <br>
 Örneğin domain ortamında bir dosya sunucusu ve paylaşımları olsun. <br>
 Bu paylaşımlara erişmek isteyen bir domain üyesi bilgisayarın erişim talebi, dosya sunucusu tarafından Domain Controller bilgisayara sorulur ve Domain Controller bilgisayarın cevabına göre talep yanıtlanır.
+<br>
+
+**Domain Member** <br>
+Bir domain ortamına join olmuş (katılmış) bir makineyi ifade eder. <br>
+<br>
+
+**Domain Users Account** <br>
+Bir kullanıcı için AD'de tanımlanan ve ağ kaynaklarına erişim sağlayan hesaptır. <br>
+Her kullanıcı hesabı, belirli izinler ve kimlik doğrulama bilgileri içerir. <br>
+<br>
+Kullanıcı hesapları, domain politikalarına göre üye cihazlardan kimlik doğrulama yapıp oturum açar ve kaynaklara erişim yetkileri alır.<br>
 <br>
