@@ -183,3 +183,8 @@ Kullanıcı hesabı veya bir oturum açma sürecine atanan kimlik bilgilerini ve
         ◦ Access Control List (ACL) <br>
 Access Control List, dosya, dizin, ağ paylaşımı gibi bir kaynağa kimlerin hangi seviyede erişim yapacağını tutan bir listedir. <br>
 <br>
+      Logon işlemi süreci; <br>
+            ▪ Kimlik doğrulama başarıyla tamamlanır (login) <br>
+            ▪ Kerberos Ticket ve Access Token oluşturulur. <br>
+            ▪ Access Control List oluşturulur. <br>
+<br>
