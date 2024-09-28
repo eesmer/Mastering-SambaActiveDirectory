@@ -70,3 +70,5 @@ Active Directory ilk olarak Windows 2000 Server ile yayınladı. <br>
 Windows 2003 sürümünde önemli revizeler ile geliştirildi. <br>
 Windows 2008 ve sonraki sürümlerdeki geliştirmelerle bugünkü yeteneklerini aldı. <br>
 Sonuç olarak; kimlikle ilgili her iş, AD altında toplandı ve yönetildi. <br>
+<br>
+[Active Directory](https://en.wikipedia.org/wiki/Active_Directory)
