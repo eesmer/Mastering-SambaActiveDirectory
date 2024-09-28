@@ -155,3 +155,17 @@ Beş temel FSMO rolü vardır; <br>
 Schema Master, Domain Naming Master, RID Master, PDC Emulator ve Infrastructure Master <br>
 Bu roller, Forest ve Domain düzeyinde Domain Controller sunucular tarafından çalıştırılır.<br>
 <br>
+
+**Trust** <br>
+Bir Domain ortamının başka bir Domain ortamına güvenmesi anlamına gelir. <br>
+Güven ilişkileri sayesinde bir Domain ortamının kaynaklarına, diğer Domain ortamındaki kullanıcılar erişebilir. <br>
+Bu güven ilişkileri, tek yönlü ya da çift yönlü olabilir ve genellikle Forest içindeki Domain ortamları arasında kurulur. <br>
+<br>
+
+**Login** <br>
+Login bir kullanıcı hesabının kimlik doğrulama sürecidir. <br>
+Kullanıcı, KullanıcıAdı ve Parola kimlik bilgilerini girerek sistemin kendisini tanımasını sağlar. Sistemin girilen bilgileri kontrol ve tanıma süreci Domain Controller bilgisayarlardan yapılır.
+            ▪ Kullanıcı, kimlik bilgilerini sağlar.
+            ▪ Girilen bilgiler, Domain Controller tarafından kontrol edilir.
+            ▪ Sağlanan kimlik bilgileri doğruysa kimlik doğrulama yapılır ve logon sürecine geçilir.
+<br>
