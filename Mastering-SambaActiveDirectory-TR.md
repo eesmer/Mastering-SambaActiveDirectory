@@ -1,7 +1,7 @@
 ## İçindekiler
 
-[Önsöz: ](#önsöz)
-[Teşekkür](#tesekkur)
+- [Önsöz: ](#önsöz)
+- [Teşekkür](#tesekkur)
 
 ## Önsöz
 Samba yazılım paketi ile kurulan SambaAD, Microsoft Active Directory hizmetlerini sunmak üzere geliştirilen ve  GPLv3 lisansı ile dağıtılan bir açık kaynak yazılımdır. <br>
