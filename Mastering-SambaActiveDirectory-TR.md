@@ -5,6 +5,7 @@
 - [Belgenin Yapısı ve Kullanımı](#Belgenin-Yapısı-ve-Kullanımı)
 - [Giriş](#Giri%C5%9F)
 - [Active Directory Nedir?](#Active-Directory-Nedir)
+- [Active Directory Kavramları](#Active-Directory-Kavramları)
 
 ## Önsöz
 Samba yazılım paketi ile kurulan SambaAD, Microsoft Active Directory hizmetlerini sunmak üzere geliştirilen ve  GPLv3 lisansı ile dağıtılan bir açık kaynak yazılımdır. <br>
