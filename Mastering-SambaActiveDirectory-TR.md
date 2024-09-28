@@ -154,7 +154,6 @@ AD içinde bazı belirli görevlerin merkezi olarak yönetilmesi için atanmış
 Beş temel FSMO rolü vardır; <br>
 Schema Master, Domain Naming Master, RID Master, PDC Emulator ve Infrastructure Master <br>
 Bu roller, Forest ve Domain düzeyinde Domain Controller sunucular tarafından çalıştırılır.<br>
-<br>
 
 **Trust** <br>
 Bir Domain ortamının başka bir Domain ortamına güvenmesi anlamına gelir. <br>
