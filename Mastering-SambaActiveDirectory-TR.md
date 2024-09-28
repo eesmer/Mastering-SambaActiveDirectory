@@ -92,3 +92,8 @@ Site, bir Active Directory ortamındaki fiziksel ağ yapısını ifade eden bir 
 Genellikle, farklı coğrafi konumlara sahip olan ağlar, birer Site olarak tanımlanır. <br>
 **Site Link:** Her bir Site arasındaki replikasyon trafiği için bağlantı kurma aracıdır. <br>
 <br>
+**Domain** <br>
+Domain ortamından önce küçük bilgisayar gruplarından oluşan Workgroup ortamından bahsetmek gerekir. <br>
+Workgroup ortamları aynı ağda bulunan birkaç bilgisayar gruplarından oluşan bir çalışma ağıdır. <br>
+Workgroup içindeki bilgisayarlar arasında dosya ve yazıcı paylaşımları yapılır ve kaynakları ortak kullanabilirler. Fakat Workgroup ortamındaki bilgisayarlara merkezi bir politika uygulanmaz ve her kaynağın erişimi o kaynağı sunan workgroup üyesi bilgisayar tarafından yapılan ayarla bilgisayar üzerinde tutulur. <br>
+<br>
