@@ -139,7 +139,6 @@ Bir kullanıcı için AD'de tanımlanan ve ağ kaynaklarına erişim sağlayan h
 Her kullanıcı hesabı, belirli izinler ve kimlik doğrulama bilgileri içerir. <br>
 <br>
 Kullanıcı hesapları, domain politikalarına göre üye cihazlardan kimlik doğrulama yapıp oturum açar ve kaynaklara erişim yetkileri alır.<br>
-<br>
 
 **Domain Groups, Organization OU (OU)** <br>
 Bir domain ortamındaki kaynakları organize etmek için kullanılan objelerdir. <br>
