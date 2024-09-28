@@ -100,5 +100,6 @@ Workgroup içindeki bilgisayarlar arasında dosya ve yazıcı paylaşımları ya
 Domain ortamı ise workgroup kavramından daha büyük bilgisayar ortamlarında kimin nereye bağlanacağı ve buna benzer politikaların merkezi olarak kontrol edilebildiği bir ortamdır. <br>
 <br>
 
-[wikipedia.org/Workgroup](https://en.wikipedia.org/wiki/Workgroup_(computer_networking))
-[wikipedia.org/WindowsDomain](https://en.wikipedia.org/wiki/Windows_domain)
+[wikipedia.org/Workgroup](https://en.wikipedia.org/wiki/Workgroup_(computer_networking)) <br>
+[wikipedia.org/WindowsDomain](https://en.wikipedia.org/wiki/Windows_domain) <br>
+<br>
