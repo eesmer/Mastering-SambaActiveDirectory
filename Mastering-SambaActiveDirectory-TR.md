@@ -3,7 +3,7 @@
 - [Önsöz](#%C3%B6nsöz)
 - [Teşekkür](#te%C5%9Fekkür)
 - [Belgenin Yapısı ve Kullanımı](#Belgenin-Yapısı-ve-Kullanımı)
-- [Giriş](#Girie%C5%9F)
+- [Giriş](#Giri%C5%9F)
 
 ## Önsöz
 Samba yazılım paketi ile kurulan SambaAD, Microsoft Active Directory hizmetlerini sunmak üzere geliştirilen ve  GPLv3 lisansı ile dağıtılan bir açık kaynak yazılımdır. <br>
@@ -45,3 +45,9 @@ Türkçe, İngilizce ve indirilebilir PDF dosyası formatları da buradan erişi
 Yapılan çalışmalar buradan güncellenecektir. <br>
 <br>
 **Güncelleme:** 28 Eylül 2024
+
+---
+
+## Giriş
+Bu bölümde temel olarak Active Directory ve kavramlarından bahsedeceğiz. <br>
+Bu bölüm ile AD ve AD ortamı hakkında detaylı bilgi sahibi olacağız.
