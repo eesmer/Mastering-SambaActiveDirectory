@@ -140,3 +140,19 @@ Her kullanıcı hesabı, belirli izinler ve kimlik doğrulama bilgileri içerir.
 <br>
 Kullanıcı hesapları, domain politikalarına göre üye cihazlardan kimlik doğrulama yapıp oturum açar ve kaynaklara erişim yetkileri alır.<br>
 <br>
+
+**Domain Groups, Organization OU (OU)** <br>
+Bir domain ortamındaki kaynakları organize etmek için kullanılan objelerdir. <br>
+Kullanıcı hesapları ve bilgisayarların üye oldukları, taşındıkları alanları ifade eder. <br>
+OU nesneleri, yönetimsel amaçlarla kullanılır ve her bir OU’ya farklı politikalar ve izinler atanabilir. <br>
+<br>
+**Group Policy Object (GPO)** <br>
+Domain içindeki bilgisayarlar ve kullanıcılar üzerinde politika uygulamak için kullanılan bir araçtır. <br>
+GPO ile domain ortamına, kullanıcı ayarları, güvenlik politikaları ve bunun gibi yönetimsel görevler merkezi olarak uygulanır. <br>
+<br>
+**FSMO Roles (Flexible Single Master Operations Roles)** <br>
+AD içinde bazı belirli görevlerin merkezi olarak yönetilmesi için atanmış olan rollerdir. <br>
+Beş temel FSMO rolü vardır; <br>
+Schema Master, Domain Naming Master, RID Master, PDC Emulator ve Infrastructure Master <br>
+Bu roller, Forest ve Domain düzeyinde Domain Controller sunucular tarafından çalıştırılır.<br>
+<br>
