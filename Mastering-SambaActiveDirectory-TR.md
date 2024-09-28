@@ -77,15 +77,15 @@ Sonuç olarak; kimlikle ilgili her iş, AD altında toplandı ve yönetildi. <br
 ## Active Directory Kavramları
 Active Directory (AD) veya Samba Active Directory ortamlarında, temel kavramların anlaşılması ortamın genel yapısının kavranması için oldukça önemlidir. <br>
 <br>
-#### Forest
+### Forest
 Forest, Active Directory ortamının en üst düzeydeki mantıksal yapısıdır. <br>
 Bir forest, birden fazla Domain içerebilir ve bunlar birbirine güven ilişkisi (trust) ile bağlıdır. <br>
 Forest içindeki tüm domain ortamları, ortak bir Global Catalog ve Schema paylaşır. <br>
 
-#### Schema
+### Schema
 Schema, Forset düzeyinde paylaşılan ve tüm Domain ortamlarında kullanılan nesne türlerini ve bunların özelliklerini tanımlar. <br>
 <br>
-#### Global Catalog
+### Global Catalog
 Forest içindeki tüm Domain ortamı nesnelerin bir kopyasını içerir ve arama yapıldığında hızlı erişim sağlar. <br>
 
 #### Site
