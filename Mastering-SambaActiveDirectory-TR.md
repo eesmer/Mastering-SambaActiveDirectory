@@ -84,3 +84,11 @@ Forest içindeki tüm domain ortamları, ortak bir Global Catalog ve Schema payl
 **Schema** <br>
 Schema, Forset düzeyinde paylaşılan ve tüm Domain ortamlarında kullanılan nesne türlerini ve bunların özelliklerini tanımlar. <br>
 <br>
+**Global Catalog** <br>
+Forest içindeki tüm Domain ortamı nesnelerin bir kopyasını içerir ve arama yapıldığında hızlı erişim sağlar. <br>
+<br>
+**Site** <br>
+Site, bir Active Directory ortamındaki fiziksel ağ yapısını ifade eden bir kavramdır. <br>
+Genellikle, farklı coğrafi konumlara sahip olan ağlar, birer Site olarak tanımlanır. <br>
+**Site Link:** Her bir Site arasındaki replikasyon trafiği için bağlantı kurma aracıdır. <br>
+<br>
