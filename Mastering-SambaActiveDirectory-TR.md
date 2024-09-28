@@ -103,3 +103,14 @@ Domain ortamı ise workgroup kavramından daha büyük bilgisayar ortamlarında 
 [wikipedia.org/Workgroup](https://en.wikipedia.org/wiki/Workgroup_(computer_networking)) <br>
 [wikipedia.org/WindowsDomain](https://en.wikipedia.org/wiki/Windows_domain) <br>
 <br>
+**Domain Controller** <br>
+Domain Controller, domain ortamının kurulduğu bilgisayardır. <br>
+Domain Controller, Active Directory veritabanını barındırır ve bu veritabanı ile domain ortamını
+kullanıcı, bilgisayar, grup ve diğer kaynakları yönetir. <br>
+<br>
+Domain Controller temel olarak aşağıdaki işleri yapar; <br>
+            ▪ Kimlik Doğrulama
+            ▪ Yetkilendirme
+            ▪ Replikasyon
+            ▪ FSMO Rolleri
+            ▪ Grup Politika Yönetimi
