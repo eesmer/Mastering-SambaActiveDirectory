@@ -72,3 +72,11 @@ Windows 2008 ve sonraki sürümlerdeki geliştirmelerle bugünkü yeteneklerini 
 Sonuç olarak; kimlikle ilgili her iş, AD altında toplandı ve yönetildi. <br>
 <br>
 [wikipedia.org/Active Directory](https://en.wikipedia.org/wiki/Active_Directory)
+
+## Active Directory Kavramları
+Active Directory (AD) veya Samba Active Directory ortamlarında, temel kavramların anlaşılması ortamın genel yapısının kavranması için oldukça önemlidir. <br>
+<br>
+**Forest** <br>
+Forest, Active Directory ortamının en üst düzeydeki mantıksal yapısıdır. <br>
+Bir forest, birden fazla Domain içerebilir ve bunlar birbirine güven ilişkisi (trust) ile bağlıdır. <br>
+Forest içindeki tüm domain ortamları, ortak bir Global Catalog ve Schema paylaşır. <br>
