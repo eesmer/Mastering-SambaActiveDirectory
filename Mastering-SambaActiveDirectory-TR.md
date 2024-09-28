@@ -188,3 +188,13 @@ Access Control List, dosya, dizin, ağ paylaşımı gibi bir kaynağa kimlerin h
             ▪ Kerberos Ticket ve Access Token oluşturulur. <br>
             ▪ Access Control List oluşturulur. <br>
 <br>
+
+**Kerberos Protokolü ve Kerberos Tickets** <br>
+Kerberos protokolü, Active Directory ortamında kimlik doğrulamanın ön tanımlı protokolüdür. <br>
+Kullanıcı ve hizmetlerin kimlik doğrulamasının merkezi bir bileşen olarak güvenli şekilde yapılmasını sağlar. <br>
+<br>
+Kerberos protokolü aşağıdaki işlevleri sağlar; <br>
+    • Authentication <br>
+    • Single Sign-On <br>
+    • Authorization <br>
+<br>
