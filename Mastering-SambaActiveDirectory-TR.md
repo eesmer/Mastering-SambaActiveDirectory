@@ -48,6 +48,7 @@ Yapılan çalışmalar buradan güncellenecektir. <br>
 **Güncelleme:** 28 Eylül 2024
 
 ---
+<br>
 
 ## Giriş
 Bu bölümde temel olarak Active Directory ve kavramlarından bahsedeceğiz. <br>
