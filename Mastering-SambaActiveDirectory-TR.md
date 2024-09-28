@@ -119,3 +119,8 @@ Domain Join, bir bilgisayarın veya cihazın, Active Directory (AD) domain ortam
 Join kavramı genel olarak üye olmayı ifade etmekte kullanılır. <br>
 Yani domain ortamına yeni bir bileşeni üye yapma işleminde kulanılan bir kavramdır. <br>
 <br>
+Bir organizasyonda domain ortamından bahsetmemiz için ortamda en az bir tane Domain Controller bilgisayar olması gerekir. <br>
+Organizasyondaki Domain Controller dışındaki bilgisayarlar Domain Controller tarafından çalıştırılan domain ortamına join olurlar. <br>
+Böylece Domain Controller tarafından işletilen güvenlik kurallarına ve politikalara tabi olurlar. <br>
+Domain Controller bilgisayar, join işlemini ve join olmuş bilgisayarın kaynaklara erişim ve domain ortamında çalışma ilkelerini yönetir. <br>
+<br>
