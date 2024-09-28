@@ -88,12 +88,12 @@ Schema, Forset düzeyinde paylaşılan ve tüm Domain ortamlarında kullanılan 
 ### Global Catalog
 Forest içindeki tüm Domain ortamı nesnelerin bir kopyasını içerir ve arama yapıldığında hızlı erişim sağlar. <br>
 
-#### Site
+### Site
 Site, bir Active Directory ortamındaki fiziksel ağ yapısını ifade eden bir kavramdır. <br>
 Genellikle, farklı coğrafi konumlara sahip olan ağlar, birer Site olarak tanımlanır. <br>
 **Site Link:** Her bir Site arasındaki replikasyon trafiği için bağlantı kurma aracıdır. <br>
 
-#### Domain
+### Domain
 Domain ortamından önce küçük bilgisayar gruplarından oluşan Workgroup ortamından bahsetmek gerekir. <br>
 Workgroup ortamları aynı ağda bulunan birkaç bilgisayar gruplarından oluşan bir çalışma ağıdır. <br>
 Workgroup içindeki bilgisayarlar arasında dosya ve yazıcı paylaşımları yapılır ve kaynakları ortak kullanabilirler. Fakat Workgroup ortamındaki bilgisayarlara merkezi bir politika uygulanmaz ve her kaynağın erişimi o kaynağı sunan workgroup üyesi bilgisayar tarafından yapılan ayarla bilgisayar üzerinde tutulur. <br>
@@ -103,7 +103,7 @@ Domain ortamı ise workgroup kavramından daha büyük bilgisayar ortamlarında 
 [wikipedia.org/Workgroup](https://en.wikipedia.org/wiki/Workgroup_(computer_networking)) <br>
 [wikipedia.org/WindowsDomain](https://en.wikipedia.org/wiki/Windows_domain) <br>
 
-#### Domain Controller
+### Domain Controller
 Domain Controller, domain ortamının kurulduğu bilgisayardır. <br>
 Domain Controller, Active Directory veritabanını barındırır ve bu veritabanı ile domain ortamını
 kullanıcı, bilgisayar, grup ve diğer kaynakları yönetir. <br>
@@ -115,7 +115,7 @@ Domain Controller temel olarak aşağıdaki işleri yapar; <br>
             ▪ FSMO Rolleri <br>
             ▪ Grup Politika Yönetimi <br>
 
-#### Domain Join
+### Domain Join
 Domain Join, bir bilgisayarın veya cihazın, Active Directory (AD) domain ortamına dahil edilmesi sürecidir. <br>
 Join kavramı genel olarak üye olmayı ifade etmekte kullanılır. <br>
 Yani domain ortamına yeni bir bileşeni üye yapma işleminde kulanılan bir kavramdır. <br>
@@ -128,43 +128,43 @@ Domain Controller bilgisayar, join işlemini ve join olmuş bilgisayarın kaynak
 Örneğin domain ortamında bir dosya sunucusu ve paylaşımları olsun. <br>
 Bu paylaşımlara erişmek isteyen bir domain üyesi bilgisayarın erişim talebi, dosya sunucusu tarafından Domain Controller bilgisayara sorulur ve Domain Controller bilgisayarın cevabına göre talep yanıtlanır.
 
-#### Domain Member
+### Domain Member
 Bir domain ortamına join olmuş (katılmış) bir makineyi ifade eder. <br>
 
-#### Domain Users Account
+### Domain Users Account
 Bir kullanıcı için AD'de tanımlanan ve ağ kaynaklarına erişim sağlayan hesaptır. <br>
 Her kullanıcı hesabı, belirli izinler ve kimlik doğrulama bilgileri içerir. <br>
 <br>
 Kullanıcı hesapları, domain politikalarına göre üye cihazlardan kimlik doğrulama yapıp oturum açar ve kaynaklara erişim yetkileri alır.<br>
 
-#### Domain Groups, Organization OU (OU)
+### Domain Groups, Organization OU (OU)
 Bir domain ortamındaki kaynakları organize etmek için kullanılan objelerdir. <br>
 Kullanıcı hesapları ve bilgisayarların üye oldukları, taşındıkları alanları ifade eder. <br>
 OU nesneleri, yönetimsel amaçlarla kullanılır ve her bir OU’ya farklı politikalar ve izinler atanabilir. <br>
-<br>
-#### Group Policy Object (GPO)
+
+### Group Policy Object (GPO)
 Domain içindeki bilgisayarlar ve kullanıcılar üzerinde politika uygulamak için kullanılan bir araçtır. <br>
 GPO ile domain ortamına, kullanıcı ayarları, güvenlik politikaları ve bunun gibi yönetimsel görevler merkezi olarak uygulanır. <br>
 
-#### FSMO Roles (Flexible Single Master Operations Roles)
+### FSMO Roles (Flexible Single Master Operations Roles)
 AD içinde bazı belirli görevlerin merkezi olarak yönetilmesi için atanmış olan rollerdir. <br>
 Beş temel FSMO rolü vardır; <br>
 Schema Master, Domain Naming Master, RID Master, PDC Emulator ve Infrastructure Master <br>
 Bu roller, Forest ve Domain düzeyinde Domain Controller sunucular tarafından çalıştırılır.<br>
 
-#### Trust
+### Trust
 Bir Domain ortamının başka bir Domain ortamına güvenmesi anlamına gelir. <br>
 Güven ilişkileri sayesinde bir Domain ortamının kaynaklarına, diğer Domain ortamındaki kullanıcılar erişebilir. <br>
 Bu güven ilişkileri, tek yönlü ya da çift yönlü olabilir ve genellikle Forest içindeki Domain ortamları arasında kurulur. <br>
 
-#### Login
+### Login
 Login bir kullanıcı hesabının kimlik doğrulama sürecidir. <br>
 Kullanıcı, KullanıcıAdı ve Parola kimlik bilgilerini girerek sistemin kendisini tanımasını sağlar. Sistemin girilen bilgileri kontrol ve tanıma süreci Domain Controller bilgisayarlardan yapılır.
             ▪ Kullanıcı, kimlik bilgilerini sağlar. <br>
             ▪ Girilen bilgiler, Domain Controller tarafından kontrol edilir. <br>
             ▪ Sağlanan kimlik bilgileri doğruysa kimlik doğrulama yapılır ve logon sürecine geçilir. <br>
 
-#### Logon
+### Logon
 Bir kullanıcı hesabının, kimlik doğrulama işlemi sonrası oturum açma sürecidir. <br>
 Bu süreçte kullanıcıya ait bir oturum açılırken kullanıcı hesabının kimlik, grup gibi bilgilerden oluşan Access Token oluşturulur. <br>
 Kullanıcı oturumu açılır ve profil ayarları, ağ bağlantıları gibi politikalardan yetkilendirme ve erişim tamamlanmış olur. <br>
@@ -185,7 +185,7 @@ Access Control List, dosya, dizin, ağ paylaşımı gibi bir kaynağa kimlerin h
             ▪ Kerberos Ticket ve Access Token oluşturulur. <br>
             ▪ Access Control List oluşturulur. <br>
 
-#### Kerberos Protokolü ve Kerberos Tickets
+### Kerberos Protokolü ve Kerberos Tickets
 Kerberos protokolü, Active Directory ortamında kimlik doğrulamanın ön tanımlı protokolüdür. <br>
 Kullanıcı ve hizmetlerin kimlik doğrulamasının merkezi bir bileşen olarak güvenli şekilde yapılmasını sağlar. <br>
 <br>
@@ -194,7 +194,7 @@ Kerberos protokolü aşağıdaki işlevleri sağlar; <br>
     • Single Sign-On <br>
     • Authorization <br>
 
-#### Kerberos Tickets
+### Kerberos Tickets
 Kullanıcı bir kez kimlik doğrulaması yaptıktan sonra kullanıcıya Ticket Granting Ticket (TGT) verilir. <br>
 Bu TGT ile farklı hizmetlere erişim için Service Ticket sağlanır. <br>
 <br>
