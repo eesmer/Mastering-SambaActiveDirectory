@@ -163,7 +163,11 @@ Bu güven ilişkileri, tek yönlü ya da çift yönlü olabilir ve genellikle Fo
 **Login** <br>
 Login bir kullanıcı hesabının kimlik doğrulama sürecidir. <br>
 Kullanıcı, KullanıcıAdı ve Parola kimlik bilgilerini girerek sistemin kendisini tanımasını sağlar. Sistemin girilen bilgileri kontrol ve tanıma süreci Domain Controller bilgisayarlardan yapılır.
-            ▪ Kullanıcı, kimlik bilgilerini sağlar.
-            ▪ Girilen bilgiler, Domain Controller tarafından kontrol edilir.
-            ▪ Sağlanan kimlik bilgileri doğruysa kimlik doğrulama yapılır ve logon sürecine geçilir.
-<br>
+            ▪ Kullanıcı, kimlik bilgilerini sağlar. <br>
+            ▪ Girilen bilgiler, Domain Controller tarafından kontrol edilir. <br>
+            ▪ Sağlanan kimlik bilgileri doğruysa kimlik doğrulama yapılır ve logon sürecine geçilir. <br>
+
+**Logon** <br>
+Bir kullanıcı hesabının, kimlik doğrulama işlemi sonrası oturum açma sürecidir. <br>
+Bu süreçte kullanıcıya ait bir oturum açılırken kullanıcı hesabının kimlik, grup gibi bilgilerden oluşan Access Token oluşturulur. <br>
+Kullanıcı oturumu açılır ve profil ayarları, ağ bağlantıları gibi politikalardan yetkilendirme ve erişim tamamlanmış olur. <br>
