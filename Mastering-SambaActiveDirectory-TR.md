@@ -80,3 +80,7 @@ Active Directory (AD) veya Samba Active Directory ortamlarında, temel kavramlar
 Forest, Active Directory ortamının en üst düzeydeki mantıksal yapısıdır. <br>
 Bir forest, birden fazla Domain içerebilir ve bunlar birbirine güven ilişkisi (trust) ile bağlıdır. <br>
 Forest içindeki tüm domain ortamları, ortak bir Global Catalog ve Schema paylaşır. <br>
+<br>
+**Schema** <br>
+Schema, Forset düzeyinde paylaşılan ve tüm Domain ortamlarında kullanılan nesne türlerini ve bunların özelliklerini tanımlar. <br>
+<br>
