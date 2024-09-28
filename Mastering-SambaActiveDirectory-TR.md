@@ -1,8 +1,6 @@
 ## İçindekiler
 
-- [Önsöz](#onsoz)
-- [Teşekkür](#tesekkur)
-
+- [Önsöz](#%C3%B6nsöz)
 - [Teşekkür](#te%C5%9Fekkür)
 
 ## Önsöz
