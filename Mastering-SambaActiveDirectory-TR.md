@@ -124,3 +124,6 @@ Organizasyondaki Domain Controller dışındaki bilgisayarlar Domain Controller 
 Böylece Domain Controller tarafından işletilen güvenlik kurallarına ve politikalara tabi olurlar. <br>
 Domain Controller bilgisayar, join işlemini ve join olmuş bilgisayarın kaynaklara erişim ve domain ortamında çalışma ilkelerini yönetir. <br>
 <br>
+Örneğin domain ortamında bir dosya sunucusu ve paylaşımları olsun. <br>
+Bu paylaşımlara erişmek isteyen bir domain üyesi bilgisayarın erişim talebi, dosya sunucusu tarafından Domain Controller bilgisayara sorulur ve Domain Controller bilgisayarın cevabına göre talep yanıtlanır.
+<br>
