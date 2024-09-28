@@ -109,8 +109,9 @@ Domain Controller, Active Directory veritabanını barındırır ve bu veritaban
 kullanıcı, bilgisayar, grup ve diğer kaynakları yönetir. <br>
 <br>
 Domain Controller temel olarak aşağıdaki işleri yapar; <br>
-            ▪ Kimlik Doğrulama
-            ▪ Yetkilendirme
-            ▪ Replikasyon
-            ▪ FSMO Rolleri
-            ▪ Grup Politika Yönetimi
+            ▪ Kimlik Doğrulama <br>
+            ▪ Yetkilendirme <br>
+            ▪ Replikasyon <br>
+            ▪ FSMO Rolleri <br>
+            ▪ Grup Politika Yönetimi <br>
+<br>
