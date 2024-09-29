@@ -84,6 +84,11 @@ Sonuç olarak; kimlikle ilgili her iş, AD altında toplandı ve yönetildi. <br
 ## Bölüm-2: Active Directory Kavramları
 Active Directory (AD) veya Samba Active Directory ortamlarında, temel kavramların anlaşılması ortamın genel yapısının kavranması için oldukça önemlidir. <br>
 <br>
+
+![alt text](images/AD_Concepts.png "Active Directory Concepts")
+
+<br>
+
 ### Forest
 Forest, Active Directory ortamının en üst düzeydeki mantıksal yapısıdır. <br>
 Bir forest, birden fazla Domain içerebilir ve bunlar birbirine güven ilişkisi (trust) ile bağlıdır. <br>
@@ -179,14 +184,11 @@ Kullanıcı oturumu açılır ve profil ayarları, ağ bağlantıları gibi poli
 **Login,** kullanıcı hesabının kim olduğunu belirler, oturum başlatmaz. <br>
 **Logon,** login sonrası kullanıcı hesabına ait bir oturum başlatır. <br>
 
-
-
 <br>
 
 ![alt text](images/login_logon.jpg "Login-Logon Image")
 
 <br>
-
 
 ◦ **Security ID (SID)** <br>
 An information (username, computer) created in the domain environment SID is a unique identifier created for each user, group and computer object in the domain environment to be used in security and access controls. <br>
