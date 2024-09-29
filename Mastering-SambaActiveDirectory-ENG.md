@@ -204,3 +204,6 @@ The renewal validity period is used to renew the TGT when it expires without re-
 [from markwilson.co.uk](https://www.markwilson.co.uk/blog/2005/06/kerberos-authentication-explained.htm)
 <br>
 <br>
+The default duration of a Kerberos ticket is 10 hours, and the maximum time the ticket is renewable is 7 days. <br>
+If the ticket expires during the session, the Kerberos client automatically requests the KDC to renew the ticket and the session continues with a renewed ticket without interruption. <br>
+If the maximum renewable period also expires, the user is asked to re-authenticate. <br>
