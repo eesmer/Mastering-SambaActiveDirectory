@@ -54,7 +54,7 @@ The study will be updated here. <br>
 
 ## 1- Introduction
 In this section we will basically talk about Active Directory and its concepts. <br>
-With this section we will have detailed information about AD and AD environment.
+With this section we will have detailed information about AD and AD environment. <br>
 <br>
 
 ## Chapter-1: What is Active Directory?
