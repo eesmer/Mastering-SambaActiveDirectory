@@ -79,7 +79,8 @@ Active Directory was first released with Windows 2000 Server. It was developed w
 If you want to get to grips with the overall structure of an Active Directory (AD) or Samba AD environment, it's really important to understand the basic concepts. <br>
 <br>
 
-![alt text](images/AD_Concepts_Schema.png "Active Directory Concepts")
+![alt text](images/AD_Concepts.png "Active Directory Concepts")
+
 <br>
 <br>
 
