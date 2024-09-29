@@ -175,7 +175,13 @@ The user session is opened and authorisation and access from policies such as pr
 <br>
 **Login** determines who the user account is, it does not start a session. <br>
 **Logon** starts a session for the user account after login. <br>
+
 <br>
+
+![alt text](images/login_logon.jpg "Login-Logon Image")
+
+<br>
+
         ◦ **Security ID (SID)** <br>
 An information (username, computer) created in the domain environment SID is a unique identifier created for each user, group and computer object in the domain environment to be used in security and access controls. <br>
         ◦ **Access Token** <br>
