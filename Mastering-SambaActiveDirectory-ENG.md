@@ -71,6 +71,7 @@ Active Directory was first released with Windows 2000 Server. It was developed w
 
 <br>
 ![alt text](images/AD_BasicSchema1.jpg "Active Directory Basic Schema")
+![alt text](images/kerberos.gif "Kerberos Service")
 <br>
 
 ## Chapter-2: Active Directory Concepts
