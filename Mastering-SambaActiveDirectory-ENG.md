@@ -51,3 +51,12 @@ The study will be updated here. <br>
 ---
 
 <br>
+
+## 1- Giriş
+In this section we will basically talk about Active Directory and its concepts. <br>
+With this section we will have detailed information about AD and AD environment.
+
+## Chapter-1: What is Active Directory?
+Active Directory is a directory service for network users. <br>
+It stores information about the organisation, such as users, computers, printers, etc. Administrative restrictions can be created on all components and rules can be executed as required. <br>
+
