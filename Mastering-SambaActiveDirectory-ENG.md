@@ -124,9 +124,17 @@ The Domain Controller computer manages the join process and the policies of the 
 - ### Domain Member
 It refers to a machine that has joined (joined) a domain environment. <br>
 
-### Domain Users Account
+- ### Domain Users Account
 The account defined in AD for a user that provides access to network resources. <br>
 Each user account contains specific permissions and authentication information. <br>
 <br>
 User accounts authenticate and log in from member devices according to domain policies and receive access authorisations to resources. <br>
-<br>
+
+- ### Domain Groups and Organisation OU (OU)
+In a domain environment, these objects are used to organise resources. <br>
+It pertains to the areas where user accounts and computers are members and can be relocated. <br>
+OU objects are utilised for administrative purposes, with the ability to assign different policies and permissions to each OU. <br>
+
+- ### Group Policy Object (GPO)
+It is a tool used to implement policies on computers and users within the domain. <br>
+GPO enables the central application of user settings, security policies and similar administrative tasks to the domain environment. <br>
