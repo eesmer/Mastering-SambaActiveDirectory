@@ -70,3 +70,13 @@ Active Directory was first released with Windows 2000 Server. It was developed w
 <br>
 ## Chapter-2: Active Directory Concepts
 If you want to get to grips with the overall structure of an Active Directory (AD) or Samba AD environment, it's really important to understand the basic concepts. <br>
+
+### Forest
+In Active Directory, a forest is the top-level logical structure. <br>
+A forest can have more than one domain, and they're all connected to each other with a trust relationship. All the domain environments in the forest use the same Global Catalog and Schema.
+
+### Schema
+This defines the object types and their properties that are shared at the forest level and used in all domain environments.
+
+### Global Catalog
+This contains a copy of all domain environment objects in the forest and provides quick access when searched.
