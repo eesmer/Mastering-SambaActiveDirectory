@@ -199,3 +199,8 @@ Kerberos Tickets are time limited in validity. <br>
 **Ticket Renewal:** Kerberos Tickets can be renewed. The renewal period is 7 days by default. <br>
 The renewal validity period is used to renew the TGT when it expires without re-authentication. <br>
 <br>
+![alt text](images/kerberos.gif "Kerberos Service")
+<br>
+[from markwilson.co.uk](https://www.markwilson.co.uk/blog/2005/06/kerberos-authentication-explained.htm)
+<br>
+<br>
