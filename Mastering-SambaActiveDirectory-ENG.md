@@ -10,8 +10,8 @@
 - [Acknowledgements](Acknowledgements)
 - [Document Structure and Usage](Document-Structure-and-Usage)
 - [1- Introduction](Introduction)
-- [Section-1: What is Active Directory](What is Active Directory?)
-- [Section-2: Active Directory Concepts](Active Directory Concepts)
+- [Section-1: What is Active Directory](What-is-Active-Directory?)
+- [Section-2: Active Directory Concepts](Active-Directory-Concepts)
 
 
 ## Preface
