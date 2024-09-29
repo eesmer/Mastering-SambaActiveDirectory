@@ -96,4 +96,15 @@ A domain environment is a way of central controlling who can connect to what and
 <br>
 [wikipedia.org/Workgroup](https://en.wikipedia.org/wiki/Workgroup_(computer_networking)) <br>
 [wikipedia.org/WindowsDomain](https://en.wikipedia.org/wiki/Windows_domain) <br>
+
+### Domain Controller
+The Domain Controller is the computer where the domain environment is installed. <br>
+It also hosts the Active Directory database, which is used to manage users, computers, groups and other resources in the domain environment. <br>
 <br>
+The Domain Controller basically performs the following tasks; <br>
+    • Authentication
+    • Authorization
+    • Replication
+    • FSMO Roles
+    • Group Policy Management
+  <br>
