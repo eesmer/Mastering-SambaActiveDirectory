@@ -143,4 +143,16 @@ GPO enables the central application of user settings, security policies and simi
 These are the roles that have been assigned the task of managing specific processes at a central level within Active Directory. <br>
 There are five basic FSMO roles; Schema Master, Domain Naming Master, RID Master, PDC Emulator and Infrastructure Master. <br>
 <br>
-These roles are run by Domain Controllers at the Forest and Domain levels.
+These roles are run by Domain Controllers at the Forest and Domain levels. <br>
+
+- ### Trust
+It means that one Domain environment trusts another Domain environment. Through trust relationships, the resources of one Domain environment can be accessed by users in the other Domain environment. <br>
+These trust relationships can be unidirectional or bidirectional and are usually established between Domain environments within the Forest. <br>
+
+- ### Login
+Login is the authentication process of a user account. <br>
+The user allows the system to recognise him/her by entering UserName and Password credentials. The process of checking and recognising the information entered by the system is done from Domain Controller computers. <br>
+    • The user provides credentials. <br>
+    • The information entered is checked by the Domain Controller. <br>
+    • If the credentials provided are correct, authentication is performed and the logon process starts. <br>
+<br>
