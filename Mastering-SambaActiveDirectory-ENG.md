@@ -119,4 +119,8 @@ Thus, they are subject to the security rules and policies operated by the Domain
 For example, let there be a file server and shares in the domain environment. <br>
 The access request of a domain member computer that wants to access these shares is asked to the Domain Controller computer by the file server and the request is answered according to the response of the Domain Controller computer. <br>
 
-The Domain Controller computer manages the join process and the policies of the joined computer to access resources and work in the domain environment.
+The Domain Controller computer manages the join process and the policies of the joined computer to access resources and work in the domain environment. <br>
+
+- ### Domain Member
+It refers to a machine that has joined (joined) a domain environment. <br>
+
