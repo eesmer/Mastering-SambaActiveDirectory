@@ -80,3 +80,8 @@ This defines the object types and their properties that are shared at the forest
 
 ### Global Catalog
 This contains a copy of all domain environment objects in the forest and provides quick access when searched.
+
+### Site
+In an Active Directory environment, a site is basically a physical network structure. <br>
+Usually, you'll find that networks in different geographical locations are defined as a site.
+**Site Link:** It's the tool you use to set up connections for replication traffic between each site.
