@@ -181,3 +181,8 @@ Logon process; <br>
 The Kerberos protocol is the predefined protocol for authentication in the Active Directory environment. <br>
 It provides secure authentication of users and services as a centralised component. <br>
 <br>
+The Kerberos protocol provides the following functions; <br>
+    • Authentication <br>
+    •  Single Sign-On <br>
+    •  Authorization <br>
+<br>
