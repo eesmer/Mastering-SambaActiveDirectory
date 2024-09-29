@@ -170,8 +170,8 @@ Bir kullanıcı hesabının, kimlik doğrulama işlemi sonrası oturum açma sü
 Bu süreçte kullanıcıya ait bir oturum açılırken kullanıcı hesabının kimlik, grup gibi bilgilerden oluşan Access Token oluşturulur. <br>
 Kullanıcı oturumu açılır ve profil ayarları, ağ bağlantıları gibi politikalardan yetkilendirme ve erişim tamamlanmış olur. <br>
 <br>
-Login, kullanıcı hesabının kim olduğunu belirler, oturum başlatmaz. <br>
-Logon, login sonrası kullanıcı hesabına ait bir oturum başlatır. <br>
+**Login,** kullanıcı hesabının kim olduğunu belirler, oturum başlatmaz. <br>
+**Logon,** login sonrası kullanıcı hesabına ait bir oturum başlatır. <br>
         ◦ Security ID (SID) <br>
 Domain ortamında oluşturulan bir bilşenin (kullanıcı adı, bilgisayar) <br>
 SID, güvenlik ve erişim denetimlerinde kullanılmak üzere domain ortamındaki her kullanıcı, grup ve bilgisayar nesnesi için oluşturulan benzersiz bir kimlik tanımlayıcısıdır. <br>
