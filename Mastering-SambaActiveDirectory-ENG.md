@@ -112,3 +112,11 @@ The Domain Controller basically performs the following tasks; <br>
 Domain Join is the process of adding a computer or device to the Active Directory (AD) domain environment. <br>
 The idea of joining is usually used to express membership. Put simply, it's a concept used in the process of making a new component a member of the domain environment. <br>
 <br>
+In order to talk about a domain environment in an organisation, there must be at least one Domain Controller computer in the environment. <br>
+Computers other than the Domain Controller in the organisation join the domain environment run by the Domain Controller. <br>
+Thus, they are subject to the security rules and policies operated by the Domain Controller. <br>
+<br>
+For example, let there be a file server and shares in the domain environment. <br>
+The access request of a domain member computer that wants to access these shares is asked to the Domain Controller computer by the file server and the request is answered according to the response of the Domain Controller computer. <br>
+
+The Domain Controller computer manages the join process and the policies of the joined computer to access resources and work in the domain environment.
