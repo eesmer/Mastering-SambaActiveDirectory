@@ -138,3 +138,9 @@ OU objects are utilised for administrative purposes, with the ability to assign 
 - ### Group Policy Object (GPO)
 It is a tool used to implement policies on computers and users within the domain. <br>
 GPO enables the central application of user settings, security policies and similar administrative tasks to the domain environment. <br>
+
+- ### FSMO roles (Flexible Single Master Operations roles)
+These are the roles that have been assigned the task of managing specific processes at a central level within Active Directory. <br>
+There are five basic FSMO roles; Schema Master, Domain Naming Master, RID Master, PDC Emulator and Infrastructure Master. <br>
+<br>
+These roles are run by Domain Controllers at the Forest and Domain levels.
