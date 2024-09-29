@@ -82,7 +82,6 @@ If you want to get to grips with the overall structure of an Active Directory (A
 ![alt text](images/AD_Concepts.png "Active Directory Concepts")
 
 <br>
-<br>
 
 - ### Forest
 In Active Directory, a forest is the top-level logical structure. <br>
