@@ -70,6 +70,7 @@ Active Directory was first released with Windows 2000 Server. It was developed w
 
 ![alt text](images/AD_BasicSchema2.jpg "Active Directory Basic Schema")
 <br>
+<br>
 [wikipedia.org/Active Directory](https://en.wikipedia.org/wiki/Active_Directory)
 
 ## Chapter-2: Active Directory Concepts
