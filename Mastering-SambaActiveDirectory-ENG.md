@@ -123,4 +123,3 @@ The Domain Controller computer manages the join process and the policies of the 
 
 - ### Domain Member
 It refers to a machine that has joined (joined) a domain environment. <br>
-
