@@ -209,4 +209,4 @@ Yenileme geçerlilik süresi, TGT’nin geçerlilik süresi dolduğunda tekrar k
 <br>
 ![alt text](images/kerberos.gif "Kerberos Service")
 <br>
-https://www.markwilson.co.uk/blog/2005/06/kerberos-authentication-explained.htm
+[Image taken from this address.](https://www.markwilson.co.uk/blog/2005/06/kerberos-authentication-explained.htm) 
