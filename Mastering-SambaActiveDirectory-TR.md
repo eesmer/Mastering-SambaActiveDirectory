@@ -206,3 +206,5 @@ Kerberos Tickets, geçerlilikleri süreyle sınırlıdır. <br>
 **TGT Süresi:** Kullanıcıya logon ile verilen TGT biletinin varsayılan geçerlilik süresi 10 saatir. <br>
 **Ticket Renewal:** Kerberos Tickets yenilenebilir. Yenilenebilme süresi varsayılan olarak 7 gündür. <br>
 Yenileme geçerlilik süresi, TGT’nin geçerlilik süresi dolduğunda tekrar kimlik doğrulaması yapılmadan yenilenmesi için kullanılır. <br>
+<br>
+![alt text](images/kerberos.gif "Kerberos Service")
