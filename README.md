@@ -7,6 +7,6 @@ A comprehensive ebook for Samba AD
 
 <br>
 
-[Mastering Samba Active Driectory ebook Türkçe](https://github.com/eesmer/Mastering-SambaActiveDirectory/blob/master/Mastering-SambaActiveDirectory-ENG.md)
+[Mastering Samba Active Driectory ebook English](https://github.com/eesmer/Mastering-SambaActiveDirectory/blob/master/Mastering-SambaActiveDirectory-ENG.md)
 
 ---
