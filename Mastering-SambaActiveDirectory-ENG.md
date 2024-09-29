@@ -1,10 +1,3 @@
-- [Önsöz](#%C3%B6nsöz)
-- [Teşekkür](#te%C5%9Fekkür)
-- [Belgenin Yapısı ve Kullanımı](#Belgenin-Yapısı-ve-Kullanımı)
-- [1- Giriş](#Giri%C5%9F)
-- [Bölüm-1: Active Directory Nedir?](#Active-Directory-Nedir)
-- [Bölüm-2: Active Directory Kavramları](#Active-Directory-Kavramları)
-
 ## Table of Contents
 - [Preface](Preface)
 - [Acknowledgements](Acknowledgements)
