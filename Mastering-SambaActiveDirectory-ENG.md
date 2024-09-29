@@ -60,4 +60,9 @@ With this section we will have detailed information about AD and AD environment.
 ## Chapter-1: What is Active Directory?
 Active Directory is a directory service for network users. <br>
 It stores information about the organisation, such as users, computers, printers, etc. Administrative restrictions can be created on all components and rules can be executed as required. <br>
-
+<br>
+When a user logs on to a computer in a domain environment, Active Directory checks the username and password entered. <br>
+If the login is valid, AD policies authorise it and the user can access network resources. <br>
+<br>
+Active Directory was first released with Windows 2000 Server. It was developed with lots of changes in the Windows 2003 version. With the improvements in Windows 2008 and later versions, it took on its current capabilities. As a result, all identity-related work was collected and managed under AD. <br>
+<br>
