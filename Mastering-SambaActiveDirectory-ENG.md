@@ -71,22 +71,22 @@ Active Directory was first released with Windows 2000 Server. It was developed w
 ## Chapter-2: Active Directory Concepts
 If you want to get to grips with the overall structure of an Active Directory (AD) or Samba AD environment, it's really important to understand the basic concepts. <br>
 
-### Forest
+- ### Forest
 In Active Directory, a forest is the top-level logical structure. <br>
 A forest can have more than one domain, and they're all connected to each other with a trust relationship. All the domain environments in the forest use the same Global Catalog and Schema.
 
 ### Schema
 This defines the object types and their properties that are shared at the forest level and used in all domain environments.
 
-### Global Catalog
+- ### Global Catalog
 This contains a copy of all domain environment objects in the forest and provides quick access when searched.
 
-### Site
+- ### Site
 In an Active Directory environment, a site is basically a physical network structure. <br>
 Usually, you'll find that networks in different geographical locations are defined as a site. <br>
 **Site Link:** It's the tool you use to set up connections for replication traffic between each site.
 
-### Domain
+- ### Domain
 Before we get into the domain environment, it's important to understand the workgroup environment, which is made up of smaller computer groups. <br>
 A workgroup is a network of computers that are all connected to the same network. They can share files and printers and use each other's resources. <br>
 <br>
@@ -97,7 +97,7 @@ A domain environment is a way of central controlling who can connect to what and
 [wikipedia.org/Workgroup](https://en.wikipedia.org/wiki/Workgroup_(computer_networking)) <br>
 [wikipedia.org/WindowsDomain](https://en.wikipedia.org/wiki/Windows_domain) <br>
 
-### Domain Controller
+- ### Domain Controller
 The Domain Controller is the computer where the domain environment is installed. <br>
 It also hosts the Active Directory database, which is used to manage users, computers, groups and other resources in the domain environment. <br>
 <br>
