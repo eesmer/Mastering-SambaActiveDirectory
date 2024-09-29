@@ -209,7 +209,7 @@ Yenileme geçerlilik süresi, TGT’nin geçerlilik süresi dolduğunda tekrar k
 <br>
 ![alt text](images/kerberos.gif "Kerberos Service")
 <br>
-[Resim markwilson.co.uk adresinden alınmıştır.](https://www.markwilson.co.uk/blog/2005/06/kerberos-authentication-explained.htm)
+[markwilson.co.uk adresinden alınmıştır.](https://www.markwilson.co.uk/blog/2005/06/kerberos-authentication-explained.htm)
 <br>
 <br>
 Bir Kerberos biletinin varsayılan ömrü 10 saattir ve yenilenebileceği maksimum süre 7 gündür. <br>
