@@ -172,3 +172,8 @@ A list of credentials and permissions assigned to a user account or a login proc
         ◦ **Access Control List (ACL)** <br>
 Access Control List is a list that holds who can access a resource such as a file, directory, network share and at what level.<br>
 <br>
+Logon process; <br>
+    • Authentication is successfully completed (login) <br>
+    • Kerberos Ticket and Access Token are created <br>
+    • Access Control List is created <br>
+<br>
