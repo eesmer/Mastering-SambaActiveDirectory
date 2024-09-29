@@ -57,7 +57,7 @@ Bu bölüm ile AD ve AD ortamı hakkında detaylı bilgi sahibi olacağız.
 
 <br>
 
-## Active Directory Nedir?
+## Bölüm-1: Active Directory Nedir?
 Active Directory, ağ kullanıcıları için kaynak dizini görevi gören bir dizin hizmetidir. <br>
 Bu dizin hizmeti ile bir veritabanında kullanıcılar, bilgisayarlar, yazıcılar gibi organizasyonun tüm bilgileri saklanır. <br>
 Organizasyondaki tüm bileşenlere (bu esasında bir kimliktir) yönetimsel kısıtlamalar oluşturulabilir ve ihtiyaçlar doğrultusunda kurallar işletilebilir.
@@ -74,7 +74,7 @@ Sonuç olarak; kimlikle ilgili her iş, AD altında toplandı ve yönetildi. <br
 <br>
 [wikipedia.org/Active Directory](https://en.wikipedia.org/wiki/Active_Directory)
 
-## Active Directory Kavramları
+## Bölüm-2: Active Directory Kavramları
 Active Directory (AD) veya Samba Active Directory ortamlarında, temel kavramların anlaşılması ortamın genel yapısının kavranması için oldukça önemlidir. <br>
 <br>
 ### Forest
