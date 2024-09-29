@@ -94,5 +94,6 @@ However, there is no central policy for workgroup computers, so each computer de
 <br>
 A domain environment is a way of central controlling who can connect to what and similar policies in computer environments that are bigger than just a workgroup. <br>
 <br>
-[wikipedia.org/Workgroup](https://en.wikipedia.org/wiki/Workgroup_(computer_networking))
-[wikipedia.org/WindowsDomain](https://en.wikipedia.org/wiki/Windows_domain)
+[wikipedia.org/Workgroup](https://en.wikipedia.org/wiki/Workgroup_(computer_networking)) <br>
+[wikipedia.org/WindowsDomain](https://en.wikipedia.org/wiki/Windows_domain) <br>
+<br>
