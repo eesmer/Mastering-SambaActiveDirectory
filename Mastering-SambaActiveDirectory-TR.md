@@ -208,3 +208,5 @@ Kerberos Tickets, geçerlilikleri süreyle sınırlıdır. <br>
 Yenileme geçerlilik süresi, TGT’nin geçerlilik süresi dolduğunda tekrar kimlik doğrulaması yapılmadan yenilenmesi için kullanılır. <br>
 <br>
 ![alt text](images/kerberos.gif "Kerberos Service")
+<br>
+https://www.markwilson.co.uk/blog/2005/06/kerberos-authentication-explained.htm
