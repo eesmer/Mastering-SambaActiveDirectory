@@ -227,3 +227,6 @@ Active Directory ortamındaki belirli bir sürümü ve özellikler kümesini ifa
 
 ### Domain Functional Level (DFL)
 Her domain için belirli işlevsel düzeyi ifade eder. Domain içindeki Domain Controller ve diğer hizmetler tarafından hangi özelliklerin desteklendiğini tanımlar.
+
+### Forest Functional Level (FFL)
+Tüm orman genelindeki işlevsel düzeyi ifade eder. Orman içindeki tüm etki alanları tarafından paylaşılan ortak özellikleri ve işlevleri belirler.
