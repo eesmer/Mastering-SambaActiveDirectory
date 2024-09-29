@@ -83,5 +83,5 @@ This contains a copy of all domain environment objects in the forest and provide
 
 ### Site
 In an Active Directory environment, a site is basically a physical network structure. <br>
-Usually, you'll find that networks in different geographical locations are defined as a site.
+Usually, you'll find that networks in different geographical locations are defined as a site. <br>
 **Site Link:** It's the tool you use to set up connections for replication traffic between each site.
