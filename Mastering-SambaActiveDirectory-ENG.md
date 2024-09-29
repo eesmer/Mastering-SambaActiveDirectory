@@ -102,9 +102,9 @@ The Domain Controller is the computer where the domain environment is installed.
 It also hosts the Active Directory database, which is used to manage users, computers, groups and other resources in the domain environment. <br>
 <br>
 The Domain Controller basically performs the following tasks; <br>
-    • Authentication
-    • Authorization
-    • Replication
-    • FSMO Roles
-    • Group Policy Management
+    • Authentication <br>
+    • Authorization <br>
+    • Replication <br>
+    • FSMO Roles <br>
+    • Group Policy Management <br>
   <br>
