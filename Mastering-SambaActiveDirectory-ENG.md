@@ -198,3 +198,4 @@ Kerberos Tickets are time limited in validity. <br>
 **TGT Duration:** The default validity period of the TGT ticket issued to the user upon logon is 10 hours. <br>
 **Ticket Renewal:** Kerberos Tickets can be renewed. The renewal period is 7 days by default. <br>
 The renewal validity period is used to renew the TGT when it expires without re-authentication. <br>
+<br>
