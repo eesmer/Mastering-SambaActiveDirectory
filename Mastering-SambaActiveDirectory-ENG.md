@@ -185,4 +185,16 @@ The Kerberos protocol provides the following functions; <br>
     • Authentication <br>
     •  Single Sign-On <br>
     •  Authorization <br>
+
+- ### Kerberos Tickets
+Once the user has authenticated, the user is issued a Ticket Granting Ticket (TGT). <br>
+With this TGT, Service Ticket is provided for access to different services. <br>
 <br>
+Thus, there is no need to authenticate repeatedly while accessing different services and applications in the same session. Kerberos Tickets are used for this. <br>
+Kerberos Tickets contain encrypted keys that prove the user's identity and session. <br>
+<br>
+Kerberos Tickets are time limited in validity. <br>
+<br>
+TGT Duration: The default validity period of the TGT ticket issued to the user upon logon is 10 hours.
+Ticket Renewal: Kerberos Tickets can be renewed. The renewal period is 7 days by default.
+The renewal validity period is used to renew the TGT when it expires without re-authentication.
