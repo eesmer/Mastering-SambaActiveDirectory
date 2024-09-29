@@ -215,4 +215,10 @@ Yenileme geçerlilik süresi, TGT’nin geçerlilik süresi dolduğunda tekrar k
 Bir Kerberos biletinin varsayılan ömrü 10 saattir ve yenilenebileceği maksimum süre 7 gündür. <br>
 Bir oturum sırasında biletin süresi dolarsa, Kerberos istemcisi otomatik olarak KDC'den bir yenileme talep eder ve oturumun yeni bir biletle sorunsuz bir şekilde (kesintiye uğramadan) devam etmesine izin verir. <br>
 Ancak, maksimum yenileme süresi de geçtiyse, kullanıcıdan yeniden kimlik doğrulaması yapması istenecektir. <br>
+
+### DNS
+Active Directory kendi DNS sunucusunu içerir ve bu DNS sunucusu, AD'nin çalışması için gerekli olan SRV kayıtları ve diğer DNS kayıtlarını yönetir. <br>
+Genelde DNS rolü DC makine üzerine domain kurulurken eklenir. <br>
 <br>
+Active Directory, dinamik DNS güncellemelerini kullanarak Domain Controller ve diğer hizmetlerin IP adreslerini otomatik olarak günceller. <br>
+Ve ek olarak; Domain adlarını ve IP adreslerini içeren DNS Zone kayıtları yönetir. <br>
