@@ -123,3 +123,10 @@ The Domain Controller computer manages the join process and the policies of the 
 
 - ### Domain Member
 It refers to a machine that has joined (joined) a domain environment. <br>
+
+### Domain Users Account
+The account defined in AD for a user that provides access to network resources. <br>
+Each user account contains specific permissions and authentication information. <br>
+<br>
+User accounts authenticate and log in from member devices according to domain policies and receive access authorisations to resources. <br>
+<br>
