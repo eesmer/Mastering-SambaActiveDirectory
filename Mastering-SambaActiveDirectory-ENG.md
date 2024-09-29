@@ -66,3 +66,4 @@ If the login is valid, AD policies authorise it and the user can access network 
 <br>
 Active Directory was first released with Windows 2000 Server. It was developed with lots of changes in the Windows 2003 version. With the improvements in Windows 2008 and later versions, it took on its current capabilities. As a result, all identity-related work was collected and managed under AD. <br>
 <br>
+[wikipedia.org/Active Directory](https://en.wikipedia.org/wiki/Active_Directory)
