@@ -49,6 +49,7 @@ Yapılan çalışmalar buradan güncellenecektir. <br>
 **Güncelleme:** 28 Eylül 2024
 
 ---
+
 <br>
 
 ## 1- Giriş
