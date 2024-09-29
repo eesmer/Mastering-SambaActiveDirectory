@@ -61,20 +61,27 @@ With this section we will have detailed information about AD and AD environment.
 Active Directory is a directory service for network users. <br>
 It stores information about the organisation, such as users, computers, printers, etc. Administrative restrictions can be created on all components and rules can be executed as required. <br>
 <br>
+
+![alt text](images/AD_BasicSchema2.jpg "Active Directory Basic Schema")
+
+<br>
+
 When a user logs on to a computer in a domain environment, Active Directory checks the username and password entered. <br>
 If the login is valid, AD policies authorise it and the user can access network resources. <br>
 <br>
 Active Directory was first released with Windows 2000 Server. It was developed with lots of changes in the Windows 2003 version. With the improvements in Windows 2008 and later versions, it took on its current capabilities. As a result, all identity-related work was collected and managed under AD. <br>
 
 <br>
-
-![alt text](images/AD_BasicSchema2.jpg "Active Directory Basic Schema")
-<br>
 <br>
 [wikipedia.org/Active Directory](https://en.wikipedia.org/wiki/Active_Directory)
 
 ## Chapter-2: Active Directory Concepts
 If you want to get to grips with the overall structure of an Active Directory (AD) or Samba AD environment, it's really important to understand the basic concepts. <br>
+<br>
+
+![alt text](images/AD_Concepts_Schema.png "Active Directory Concepts")
+<br>
+<br>
 
 - ### Forest
 In Active Directory, a forest is the top-level logical structure. <br>
