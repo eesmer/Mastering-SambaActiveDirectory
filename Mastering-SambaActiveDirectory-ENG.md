@@ -85,3 +85,9 @@ This contains a copy of all domain environment objects in the forest and provide
 In an Active Directory environment, a site is basically a physical network structure. <br>
 Usually, you'll find that networks in different geographical locations are defined as a site. <br>
 **Site Link:** It's the tool you use to set up connections for replication traffic between each site.
+
+### Domain
+Before we get into the domain environment, it's important to understand the workgroup environment, which is made up of smaller computer groups. <br>
+A workgroup is a network of computers that are all connected to the same network. They can share files and printers and use each other's resources. <br>
+<br>
+However, there is no central policy for workgroup computers, so each computer decides for itself which resources it can access.
