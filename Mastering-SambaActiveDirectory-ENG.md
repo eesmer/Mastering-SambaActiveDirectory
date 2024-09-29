@@ -47,4 +47,8 @@ It is available in Turkish, English and PDF format. <br>
 
 The study will be updated here. <br>
 
-#### Update: September 28, 2024
+**Update:** September 28, 2024
+
+---
+
+<br>
