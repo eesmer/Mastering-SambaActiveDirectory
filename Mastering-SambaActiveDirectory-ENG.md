@@ -21,7 +21,6 @@ Finally, Samba 4 provided the setup and management services for a Domain and Act
 <br>
 Named after the file and printer sharing protocol SMB, Samba has become a great tool for us thanks to the outstanding work of Andrew Triggel and the Samba Team. <br>
 And today, we have an excellent option for setting up and managing Domain and Active Directory environments in production environments. <br>
-<br>
 
 #### On Paradigm Shift
 I'm not sure the paradigm example is the best fit for this work. <br>
@@ -31,7 +30,7 @@ Historically, paradigm shifts have been a way to bring about positive change. Bu
 <br>
 Regardless of whether this topic is the perfect example of a paradigm shift or if it's causing what's known as "paradigm paralysis," which makes it harder to learn and grow, we can still evaluate this work by focusing on the potential of open-source alternatives in the IT world today. <br>
 <br>
-Then, we can get started. <br>
+Then, we can get started.
 
 #### Acknowledgements
 It's impossible not to acknowledge the efforts behind this work. <br>
