@@ -207,3 +207,10 @@ The renewal validity period is used to renew the TGT when it expires without re-
 The default duration of a Kerberos ticket is 10 hours, and the maximum time the ticket is renewable is 7 days. <br>
 If the ticket expires during the session, the Kerberos client automatically requests the KDC to renew the ticket and the session continues with a renewed ticket without interruption. <br>
 If the maximum renewable period also expires, the user is asked to re-authenticate. <br>
+
+- ### DNS
+Active Directory includes its own DNS server, which manages the SRV records and other DNS entries required for AD to function. <br>
+Typically, the DNS role is added to the Domain Controller (DC) when the domain is being set up. <br>
+Active Directory uses dynamic DNS updates to automatically update the IP addresses of Domain Controllers and other services. <br>
+<br>
+Additionally, it manages DNS Zone records, which contain domain names and IP addresses. <br>
