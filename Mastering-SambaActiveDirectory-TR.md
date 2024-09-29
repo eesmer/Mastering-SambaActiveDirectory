@@ -51,7 +51,7 @@ Yapılan çalışmalar buradan güncellenecektir. <br>
 ---
 <br>
 
-## Giriş
+## 1- Giriş
 Bu bölümde temel olarak Active Directory ve kavramlarından bahsedeceğiz. <br>
 Bu bölüm ile AD ve AD ortamı hakkında detaylı bilgi sahibi olacağız.
 
