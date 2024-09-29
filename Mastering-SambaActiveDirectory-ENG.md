@@ -107,7 +107,6 @@ The Domain Controller basically performs the following tasks; <br>
     • Replication <br>
     • FSMO Roles <br>
     • Group Policy Management <br>
-  <br>
   
 ### Domain Join
 Domain Join is the process of adding a computer or device to the Active Directory (AD) domain environment. <br>
