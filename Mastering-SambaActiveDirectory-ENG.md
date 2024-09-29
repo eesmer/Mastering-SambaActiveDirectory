@@ -176,4 +176,8 @@ Logon process; <br>
     • Authentication is successfully completed (login) <br>
     • Kerberos Ticket and Access Token are created <br>
     • Access Control List is created <br>
+
+- ### Kerberos Protocol and Kerberos Tickets
+The Kerberos protocol is the predefined protocol for authentication in the Active Directory environment. <br>
+It provides secure authentication of users and services as a centralised component. <br>
 <br>
