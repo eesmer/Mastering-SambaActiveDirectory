@@ -163,3 +163,12 @@ The user session is opened and authorisation and access from policies such as pr
 <br>
 **Login** determines who the user account is, it does not start a session. <br>
 **Logon** starts a session for the user account after login. <br>
+<br>
+        ◦ **Security ID (SID)** <br>
+An information (username, computer) created in the domain environment SID is a unique identifier created for each user, group and computer object in the domain environment to be used in security and access controls. <br>
+        ◦ **Access Token** <br>
+A list of credentials and permissions assigned to a user account or a login process. This determines how and which resources a user can access the environment. <br>
+        ◦ **Kerberos Ticket** <br>
+        ◦ **Access Control List (ACL)** <br>
+Access Control List is a list that holds who can access a resource such as a file, directory, network share and at what level.<br>
+<br>
