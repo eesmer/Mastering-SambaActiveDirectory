@@ -221,3 +221,9 @@ Active Directory, AD'nin çalışması için gereken SRV kayıtlarını ve diğe
 Active Directory, Etki Alanı Denetleyicilerinin ve diğer hizmetlerin IP adreslerini otomatik olarak güncellemek için dinamik DNS güncellemelerini kullanır. <br>
 <br>
 Ayrıca, etki alanı adlarını ve IP adreslerini içeren DNS Bölge kayıtlarını yönetir.
+
+### Functional Level
+Active Directory ortamındaki belirli bir sürümü ve özellikler kümesini ifade eder. Etki alanı genelinde kullanılabilen özellikleri ve hangi sürümün bunları desteklediğini belirler.
+
+### Domain Functional Level (DFL)
+Her domain için belirli işlevsel düzeyi ifade eder. Domain içindeki Domain Controller ve diğer hizmetler tarafından hangi özelliklerin desteklendiğini tanımlar.
