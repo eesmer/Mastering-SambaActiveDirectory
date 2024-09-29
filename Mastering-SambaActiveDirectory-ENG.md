@@ -5,7 +5,8 @@
 - [1- Introduction](Introduction)
 - [Section-1: What is Active Directory](What-is-Active-Directory?)
 - [Section-2: Active Directory Concepts](Active-Directory-Concepts)
-
+  
+---
 
 ## Preface
 SambaAD, which is installed with the Samba software package, is an open-source software developed to provide Microsoft Active Directory services and is distributed under the GPLv3 license. <br>
