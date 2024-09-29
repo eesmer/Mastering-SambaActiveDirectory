@@ -70,15 +70,8 @@ Active Directory was first released with Windows 2000 Server. It was developed w
 <br>
 
 <br>
-![alt text](images/AD_BasicSchema1.jpg "Active Directory Basic Schema")
-![alt text](images/kerberos.gif "Kerberos Service")
-<br>
 
 ![alt text](images/AD_BasicSchema1.jpg "DebianDC_Desktop")
-
-<br>
-
-![alt text](images/kerberos.gif "DebianDC StartMenu")
 
 ## Chapter-2: Active Directory Concepts
 If you want to get to grips with the overall structure of an Active Directory (AD) or Samba AD environment, it's really important to understand the basic concepts. <br>
