@@ -178,14 +178,23 @@ Kullanıcı oturumu açılır ve profil ayarları, ağ bağlantıları gibi poli
 <br>
 **Login,** kullanıcı hesabının kim olduğunu belirler, oturum başlatmaz. <br>
 **Logon,** login sonrası kullanıcı hesabına ait bir oturum başlatır. <br>
-        ◦ Security ID (SID) <br>
-Domain ortamında oluşturulan bir bilşenin (kullanıcı adı, bilgisayar) <br>
-SID, güvenlik ve erişim denetimlerinde kullanılmak üzere domain ortamındaki her kullanıcı, grup ve bilgisayar nesnesi için oluşturulan benzersiz bir kimlik tanımlayıcısıdır. <br>
-        ◦ Access Token <br>
-Kullanıcı hesabı veya bir oturum açma sürecine atanan kimlik bilgilerini ve izinleri içeren bir listedir. Bu bir kullanıcının ortama nasıl ve hangi kaynaklara erişebileceğini belirler. <br>
-        ◦ Kerberos Ticket <br>
-        ◦ Access Control List (ACL) <br>
-Access Control List, dosya, dizin, ağ paylaşımı gibi bir kaynağa kimlerin hangi seviyede erişim yapacağını tutan bir listedir. <br>
+
+
+
+<br>
+
+![alt text](images/login_logon.jpg "Login-Logon Image")
+
+<br>
+
+
+◦ **Security ID (SID)** <br>
+An information (username, computer) created in the domain environment SID is a unique identifier created for each user, group and computer object in the domain environment to be used in security and access controls. <br>
+◦ **Access Token** <br>
+A list of credentials and permissions assigned to a user account or a login process. This determines how and which resources a user can access the environment. <br>
+◦ **Kerberos Ticket** <br>
+◦ **Access Control List (ACL)** <br>
+Access Control List is a list that holds who can access a resource such as a file, directory, network share and at what level.<br>
 <br>
       Logon işlemi süreci; <br>
             ▪ Kimlik doğrulama başarıyla tamamlanır (login) <br>
