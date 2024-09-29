@@ -90,4 +90,9 @@ Usually, you'll find that networks in different geographical locations are defin
 Before we get into the domain environment, it's important to understand the workgroup environment, which is made up of smaller computer groups. <br>
 A workgroup is a network of computers that are all connected to the same network. They can share files and printers and use each other's resources. <br>
 <br>
-However, there is no central policy for workgroup computers, so each computer decides for itself which resources it can access.
+However, there is no central policy for workgroup computers, so each computer decides for itself which resources it can access. <br>
+<br>
+A domain environment is a way of central controlling who can connect to what and similar policies in computer environments that are bigger than just a workgroup. <br>
+<br>
+[wikipedia.org/Workgroup](https://en.wikipedia.org/wiki/Workgroup_(computer_networking))
+[wikipedia.org/WindowsDomain](https://en.wikipedia.org/wiki/Windows_domain)
