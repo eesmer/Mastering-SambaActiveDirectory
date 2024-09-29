@@ -214,3 +214,13 @@ Typically, the DNS role is added to the Domain Controller (DC) when the domain i
 Active Directory uses dynamic DNS updates to automatically update the IP addresses of Domain Controllers and other services. <br>
 <br>
 Additionally, it manages DNS Zone records, which contain domain names and IP addresses. <br>
+
+- ### Functional Level
+A Functional Level refers to a specific version and set of features within an Active Directory environment. <br>
+It determines the features available across the domain and which version supports them. <br>
+
+- ### Domain Functional Level (DFL)
+This refers to the specific functional level for each domain. It defines what features are supported by the Domain Controllers and other services within that domain. <br>
+
+- ### Forest Functional Level (FFL)
+This refers to the functional level across the entire forest. It sets the common features and functions shared by all domains within the forest. <br>
