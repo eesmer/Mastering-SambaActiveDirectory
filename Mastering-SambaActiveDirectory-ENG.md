@@ -155,4 +155,11 @@ The user allows the system to recognise him/her by entering UserName and Passwor
     • The user provides credentials. <br>
     • The information entered is checked by the Domain Controller. <br>
     • If the credentials provided are correct, authentication is performed and the logon process starts. <br>
+
+- ### Logon
+It is the login process of a user account after the authentication process. <br>
+In this process, an Access Token consisting of information such as the identity and group of the user account is created while opening a session of the user. <br>
+The user session is opened and authorisation and access from policies such as profile settings, network connections are completed. <br>
 <br>
+Login determines who the user account is, it does not start a session. <br>
+Logon starts a session for the user account after login. <br>
