@@ -217,8 +217,7 @@ Bir oturum sırasında biletin süresi dolarsa, Kerberos istemcisi otomatik olar
 Ancak, maksimum yenileme süresi de geçtiyse, kullanıcıdan yeniden kimlik doğrulaması yapması istenecektir. <br>
 
 ### DNS
-Active Directory kendi DNS sunucusunu içerir ve bu DNS sunucusu, AD'nin çalışması için gerekli olan SRV kayıtları ve diğer DNS kayıtlarını yönetir. <br>
-Genelde DNS rolü DC makine üzerine domain kurulurken eklenir. <br>
+Active Directory, AD'nin çalışması için gereken SRV kayıtlarını ve diğer DNS girişlerini yöneten kendi DNS sunucusunu içerir. Genellikle, etki alanı kurulurken Etki Alanı Denetleyicisine (DC) DNS rolü eklenir. <br>
+Active Directory, Etki Alanı Denetleyicilerinin ve diğer hizmetlerin IP adreslerini otomatik olarak güncellemek için dinamik DNS güncellemelerini kullanır. <br>
 <br>
-Active Directory, dinamik DNS güncellemelerini kullanarak Domain Controller ve diğer hizmetlerin IP adreslerini otomatik olarak günceller. <br>
-Ve ek olarak; Domain adlarını ve IP adreslerini içeren DNS Zone kayıtları yönetir. <br>
+Ayrıca, etki alanı adlarını ve IP adreslerini içeren DNS Bölge kayıtlarını yönetir.
