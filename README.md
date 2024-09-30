@@ -1,5 +1,5 @@
 # Mastering Samba Active Directory
-A comprehensive ebook for Samba AD
+### A comprehensive ebook for Samba AD
 
 ![alt text](images/Samba_Logo.jpeg "Samba")
 
