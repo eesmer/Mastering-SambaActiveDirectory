@@ -5,19 +5,17 @@ A comprehensive ebook for Samba AD
 
 ---
 
-This study is designed to guide both beginners and experienced users through the basics of Active Directory and the detailed installation, configuration, and administration of Samba Active Directory.
+This work is intended to guide both beginners and experienced users through the basics of Active Directory and the detailed installation, configuration, and administration of Samba Active Directory.
 
 ### What It Includes:
 - What Active Directory is and its basic concepts
 - How to install and configure Samba Active Directory
 - Backup, replication and advanced configurations
 
-This paper provides a comprehensive guide to creating, maintaining, and troubleshooting a Samba Active Directory environment.
+This document provides a comprehensive guide to creating, maintaining, and troubleshooting a Samba Active Directory environment.
 
 #### Available in the following languages:
-- [Mastering Samba Active Driectory ebook English](https://github.com/eesmer/Mastering-SambaActiveDirectory/blob/master/Mastering-SambaActiveDirectory-ENG.md)
-- [Mastering Samba Active Driectory ebook Türkçe](https://github.com/eesmer/Mastering-SambaActiveDirectory/blob/master/Mastering-SambaActiveDirectory-TR.md)
+- English](link-to-english-md)
+- [Turkish](link-to-turkish-md)
 
 You can give feedback and contribute.
-
----
