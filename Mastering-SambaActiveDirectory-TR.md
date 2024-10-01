@@ -257,8 +257,6 @@ Samba Active Directory (SambaAD), Samba4 sürümüyle birlikte yazılıma eklene
 <br>
 Samba yazılımı ilk 3 sürümünde dosya ve yazıcı paylaşım hizmetleri işlerini yapmış oldukça başarılı ve yaygın bir projedir. Samba4 sürümü çalışmaları 2005 yılında aşağıdaki Active Directory bileşeni özellikleri eklenerek yeniden yazılmaz için başlamıştır. <br>
 
-    • The Active Directory component – Active Directory bileşeni <br>
-    • The file sharing smbd component – smbd ve File Sharing <br>
-    • The user mapping winbindd component - winbindd bileşeni ile User Mapping <br>
-    
-<br>
+    • The Active Directory component – Active Directory bileşeni
+    • The file sharing smbd component – smbd ve File Sharing
+    • The user mapping winbindd component - winbindd bileşeni ile User Mapping
