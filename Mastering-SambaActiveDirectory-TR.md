@@ -268,3 +268,11 @@ https://www.samba.org/samba/history/samba-4.0.0.html
 
 Teşekkürler.. https://www.samba.org/samba/team/ <br>
 Bu çalışmanın başlangıcında Triggel’in söz konusu çalışma için yaptığı sunum; https://www.samba.org/ftp/samba/slides/samba4_auug.pdf
+<br>
+
+**Tarihten bir not:** <br>
+Avrupa Birliği komisyonu 2004 yılında bir ağ yazılımı olarak nitelendirdiği Active Directory için rekabet kanuna göre pazar hakimiyetinin kötüye kullanılması nedeniyle Microsoft’u açık etme ve spesifikasyonlarını yayınlama mecburiyetine tabi tutmuştur. <br>
+Bu yargı kararı ve bunu savunan komisyon üyesi Neelie Kroes’un desteği, açık kaynak bilinci ve projelerinin desteklenmesi için kilometre taşı niteliğinde bir adımdır. <br>
+https://en.wikipedia.org/wiki/Microsoft_Corp._v._Commission <br>
+https://en.wikipedia.org/wiki/Neelie_Kroes <br>
+<br>
