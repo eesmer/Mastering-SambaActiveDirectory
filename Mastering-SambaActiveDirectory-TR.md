@@ -267,5 +267,4 @@ https://www.samba.org/samba/history/samba-4.0.0.html
 <br>
 
 Teşekkürler.. https://www.samba.org/samba/team/ <br>
-Bu çalışmanın başlangıcında Triggel’in söz konusu çalışma için yaptığı sunum; <br>
-https://www.samba.org/ftp/samba/slides/samba4_auug.pdf
+Bu çalışmanın başlangıcında Triggel’in söz konusu çalışma için yaptığı sunum; https://www.samba.org/ftp/samba/slides/samba4_auug.pdf
