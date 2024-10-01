@@ -252,5 +252,5 @@ Tüm orman genelindeki işlevsel düzeyi ifade eder. Orman içindeki tüm etki a
 
 ---
 
-## 2- Samba Active Directory
+# 2- Samba Active Directory
 Samba Active Directory (SambaAD), Samba4 sürümüyle birlikte yazılıma eklenen ve geliştirilen bir Active Directory ve Domain kurma ve yönetme ortamıdır.
