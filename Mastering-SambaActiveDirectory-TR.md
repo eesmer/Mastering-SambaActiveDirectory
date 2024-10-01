@@ -253,4 +253,11 @@ Tüm orman genelindeki işlevsel düzeyi ifade eder. Orman içindeki tüm etki a
 ---
 
 # 2- Samba Active Directory
-Samba Active Directory (SambaAD), Samba4 sürümüyle birlikte yazılıma eklenen ve geliştirilen bir Active Directory ve Domain kurma ve yönetme ortamıdır.
+Samba Active Directory (SambaAD), Samba4 sürümüyle birlikte yazılıma eklenen ve geliştirilen bir Active Directory ve Domain kurma ve yönetme ortamıdır. <br>
+<br>
+Samba yazılımı ilk 3 sürümünde dosya ve yazıcı paylaşım hizmetleri işlerini yapmış oldukça başarılı ve yaygın bir projedir. Samba4 sürümü çalışmaları 2005 yılında aşağıdaki Active Directory bileşeni özellikleri eklenerek yeniden yazılmaz için başlamıştır. <br>
+
+    • The Active Directory component – Active Directory bileşeni <br>
+    • The file sharing smbd component – smbd ve File Sharing <br>
+    • The user mapping winbindd component - winbindd bileşeni ile User Mapping <br>
+<br>
