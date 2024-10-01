@@ -3,11 +3,11 @@
 - [Önsöz](#%C3%B6nsöz)
 - [Teşekkür](#te%C5%9Fekkür)
 - [Belgenin Yapısı ve Kullanımı](#Belgenin-Yapısı-ve-Kullanımı)
-- [1- Giriş](#Giri%C5%9F)
-- [Bölüm-1: Active Directory Nedir?](#Active-Directory-Nedir)
-- [Bölüm-2: Active Directory Kavramları](#Active-Directory-Kavramları)
-- [2- Samba Active Directory](#Samba-Active-Directory)
-- [Bölüm-3: Samba Active Directory Yapısı ve Microsoft AD ile Karşılaştırılması ](#Samba-Active-Directory-Yapısı-ve-Microsoft-AD-ile-Karşılaştırılması)
+- [**1-** Giriş](#Giri%C5%9F)
+- [**Bölüm-1:** Active Directory Nedir?](#Active-Directory-Nedir)
+- [**Bölüm-2:** Active Directory Kavramları](#Active-Directory-Kavramları)
+- [**2-** Samba Active Directory](#Samba-Active-Directory)
+- [**Bölüm-3:** Samba Active Directory Yapısı ve Microsoft AD ile Karşılaştırılması ](#Samba-Active-Directory-Yapısı-ve-Microsoft-AD-ile-Karşılaştırılması)
 
 ## Önsöz
 Samba yazılım paketi ile kurulan SambaAD, Microsoft Active Directory hizmetlerini sunmak üzere geliştirilen ve  GPLv3 lisansı ile dağıtılan bir açık kaynak yazılımdır. <br>
