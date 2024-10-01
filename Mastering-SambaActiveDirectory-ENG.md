@@ -278,7 +278,7 @@ By doing so, you will gain a clear understanding of SambaAD. <br>
 Both Samba Active Directory and Microsoft Active Directory are systems built on database and directory structures, using various database files to manage users, groups, computers, and other directory objects. <br> 
 While both systems share similar core principles, there are some important differences in how they manage data and structure their files. <br>
 <br>
-**In Microsoft Active Directory**, all directory service information — users, groups, computer accounts, security policies, etc. — is stored in a single file called NTDS.dit (New Technology Directory Services). This file contains the entire AD database in one location. <br>
+**In Microsoft Active Directory**, all directory service information (users, groups, computer accounts, security policies, etc.) is stored in a single file called NTDS.dit (New Technology Directory Services). This file contains the entire AD database in one location. <br>
 **In Samba Active Directory**, there is no direct equivalent to the NTDS.dit file. Instead, SambaAD uses an LDAP (Lightweight Directory Access Protocol) based system, where information is stored in various LDB files, such as sam.ldb. LDAP is a protocol used for configuring directory services and querying data, and Samba’s database system is built around this protocol. <br>
 <br>
 The SambaAD environment consists of several .ldb database files, each designed to store and manage specific types of data. <br>
