@@ -249,3 +249,8 @@ Her domain için belirli işlevsel düzeyi ifade eder. Domain içindeki Domain C
 
 - ### Forest Functional Level (FFL)
 Tüm orman genelindeki işlevsel düzeyi ifade eder. Orman içindeki tüm etki alanları tarafından paylaşılan ortak özellikleri ve işlevleri belirler.
+
+---
+
+## 2- Samba Active Directory
+Samba Active Directory (SambaAD), Samba4 sürümüyle birlikte yazılıma eklenen ve geliştirilen bir Active Directory ve Domain kurma ve yönetme ortamıdır.
