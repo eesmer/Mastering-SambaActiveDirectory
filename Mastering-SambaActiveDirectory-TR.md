@@ -209,9 +209,9 @@ Kerberos protokolü, Active Directory ortamında kimlik doğrulamanın ön tanı
 Kullanıcı ve hizmetlerin kimlik doğrulamasının merkezi bir bileşen olarak güvenli şekilde yapılmasını sağlar. <br>
 <br>
 Kerberos protokolü aşağıdaki işlevleri sağlar; <br>
-    • Authentication <br>
-    • Single Sign-On <br>
-    • Authorization <br>
+• Authentication <br>
+• Single Sign-On <br>
+• Authorization <br>
 
 - ### Kerberos Tickets
 Kullanıcı bir kez kimlik doğrulaması yaptıktan sonra kullanıcıya Ticket Granting Ticket (TGT) verilir. <br>
@@ -257,7 +257,7 @@ Samba Active Directory (SambaAD), Samba4 sürümüyle birlikte yazılıma eklene
 <br>
 Samba yazılımı ilk 3 sürümünde dosya ve yazıcı paylaşım hizmetleri işlerini yapmış oldukça başarılı ve yaygın bir projedir. Samba4 sürümü çalışmaları 2005 yılında aşağıdaki Active Directory bileşeni özellikleri eklenerek yeniden yazılmaz için başlamıştır. <br>
 
-•  The Active Directory component – Active Directory bileşeni <br>
+• The Active Directory component – Active Directory bileşeni <br>
 • The file sharing smbd component – smbd ve File Sharing <br>
 • The user mapping winbindd component - winbindd bileşeni ile User Mapping <br>
 <br>
