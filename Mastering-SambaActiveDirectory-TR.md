@@ -280,17 +280,21 @@ https://en.wikipedia.org/wiki/Neelie_Kroes <br>
 Microsoft, karar gereği resmi olarak Active Directory spesifikasyonlarının belgelendirme ve yayınını yapsa da söz konusu belgelerden Samba4 sürümü geliştirme sürecinde yararlanılamamıştır. <br>
 <br>
 ## Bölüm-3: Samba Active Directory Yapısı ve Microsoft AD ile Karşılaştırılması
-Bu başlıkta Samba Active Directory ortamının temel yapısından bahsedeceğiz. <br>
-Microsoft AD ile temel yapısal farklara da değinerek SambaAD hakkında yeteri kadar fikir sahibi olacağız. <br>
+Bu bölümde, Samba Active Directory (SambaAD) ortamının temel yapısından ve Microsoft Active Directory (AD) ile arasındaki farklardan bahsedeceğiz. <br>
+Böylece SambaAD hakkında yeterli bir fikir sahibi olacaksınız. <br>
 <br>
-Samba Active Directory ve Microsoft Active Directory, temel olarak veritabanı ve dizin yapıları üzerine inşa edilmiş sistemlerdir. <br>
-Her ikisi de kullanıcı, grup, bilgisayar ve diğer dizin objelerini yönetmek için çeşitli veritabanı dosyaları kullanır. <br>
+Hem Samba Active Directory hem de Microsoft Active Directory, kullanıcı, grup, bilgisayar ve diğer dizin objelerini yönetmek için çeşitli veritabanı dosyalarını kullanan sistemlerdir. <br>
+Temel olarak her ikisi de veritabanı ve dizin yapıları üzerine inşa edilmiştir. Ancak, bu iki sistemin veri yönetimi ve dosya yapısı açısından bazı önemli farklılıkları vardır. <br>
+
 <br>
 **Microsoft Active Directory**'de, tüm dizin hizmeti bilgileri (kullanıcılar, gruplar, bilgisayar hesapları, güvenlik politikaları vb.) **NTDS.dit** (New Technology Directory Services) dosyasında tutulur. <br>
-**Samba Active Directory**'de, NTDS.dit dosyasına doğrudan bir karşılık yoktur. Bunun yerine, Samba AD LDAP tabanlı bir sistem kullanır ve bilgiler **sam.ldb** gibi çeşitli LDB dosyalarında tutulur.
+**Samba Active Directory**'de, NTDS.dit dosyasına doğrudan bir karşılık yoktur. Bunun yerine Samba AD, LDAP (Lightweight Directory Access Protocol) tabanlı bir sistem kullanır ve bilgiler **sam.ldb** gibi çeşitli LDB dosyalarında tutulur. <br>
+LDAP, dizin hizmetlerinin yapılandırılması ve verilerin sorgulanması için kullanılan bir protokoldür ve Samba'nın veritabanı sistemi bu protokolü temel alır. <br>
 <br>
 SambaAD ortamında her biri belirli türdeki verileri saklamak ve yönetmek amacıyla tasarlanmış olan **.ldb** veritabanı dosyaları vardır. <br>
 SambaAD ortamındaki, örneğin; kullanıcılar, gruplar, yetkiler ve buna benzer yönetimsel ayarlar bu özel veritabanı dosyalarında tutulur. <br>
 Bu veritabanı dosyaları tümüyle Windows Active Directory ortamındaki **NTDS.dit** dosyasına karşılık gelir. <br>
 <br>
 Samba, LDB formatını kullanır ve veriler genellikle LDAP benzeri bir yapı ile yönetilir. <br>
+<br>
+SambaAD verileri LDB formatında saklar ve veriler LDAP benzeri bir yapıyla yönetilir. Bu, Samba'nın Microsoft Active Directory'ye açık kaynaklı bir alternatif sunarken, kendi veritabanı yapısıyla yönetim esnekliği sağladığı anlamına gelir.
