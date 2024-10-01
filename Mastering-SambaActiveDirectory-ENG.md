@@ -243,3 +243,31 @@ This refers to the specific functional level for each domain. It defines what fe
 
 - ### Forest Functional Level (FFL)
 This refers to the functional level across the entire forest. It sets the common features and functions shared by all domains within the forest. <br>
+
+---
+
+# 2- Samba Active Directory
+Samba Active Directory (SambaAD) is an environment for setting up and managing Active Directory and domains that was added and developed with the Samba 4 version. <br>
+<br>
+The Samba software was a highly successful and widely used project that provided file and printer sharing services in its first three versions. <br>
+The work on Samba 4 began in 2005, incorporating the following Active Directory component features: <br>
+
+• The Active Directory component <br>
+• The file sharing smbd component <br>
+• The user mapping winbindd component <br>
+<br>
+In December 2012, the stable release of Samba 4.0.0 was published by adding Active Directory functionality to the maintained Samba 3 code.
+
+Release Notes
+https://www.samba.org/samba/history/samba-4.0.0.html
+
+At the beginning of this work, Triggel's presentation for this project can be found here: Triggel's Presentation https://www.samba.org/ftp/samba/slides/samba4_auug.pdf
+
+**A Note from History:** <br>
+In 2004, the European Commission, characterizing Active Directory as a network software, subjected Microsoft to a requirement to disclose and publish its specifications due to the abuse of market dominance according to competition law. <br>
+This ruling and the support of Commissioner Neelie Kroes for it represent a milestone step for the awareness and support of open-source projects. <br>
+https://en.wikipedia.org/wiki/Microsoft_Corp._v._Commission <br>
+https://en.wikipedia.org/wiki/Neelie_Kroes <br>
+<br>
+Although Microsoft officially documented and published the specifications for Active Directory as required by the ruling, these documents could not be utilized during the development process of the Samba 4 version. <br>
+<br>
