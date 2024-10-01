@@ -6,7 +6,8 @@
 - [**Chapter-1:** What is Active Directory?](#What-is-Active-Directory?)
 - [**Chapter-2:** Active Directory Concepts](#Active-Directory-Concepts)
 - [**2-** Samba Active Directory](#Samba-Active-Directory)
-  
+- [**Chapter-3:** Samba Active Directory Structure and Comparison with Microsoft AD](#Samba-Active-Directory-Structure-and-Comparison-with-Microsoft-AD)
+
 ---
 
 ## Preface
@@ -271,7 +272,6 @@ https://en.wikipedia.org/wiki/Neelie_Kroes <br>
 Although Microsoft officially documented and published the specifications for Active Directory as required by the ruling, these documents could not be utilized during the development process of the Samba 4 version. <br>
 <br>
 ## Chapter-3: Samba Active Directory Structure and Comparison with Microsoft AD
-
 In this section, we will discuss the basic structure of the Samba Active Directory (SambaAD) environment and the differences between it and Microsoft Active Directory (AD). <br>
 By doing so, you will gain a clear understanding of SambaAD. <br>
 <br>
