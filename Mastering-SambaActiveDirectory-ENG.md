@@ -258,10 +258,8 @@ The work on Samba 4 began in 2005, incorporating the following Active Directory 
 <br>
 In December 2012, the stable release of Samba 4.0.0 was published by adding Active Directory functionality to the maintained Samba 3 code.
 
-Release Notes
-https://www.samba.org/samba/history/samba-4.0.0.html
-
-At the beginning of this work, Triggel's presentation for this project can be found here: Triggel's Presentation https://www.samba.org/ftp/samba/slides/samba4_auug.pdf
+Thanks.. https://www.samba.org/samba/history/samba-4.0.0.html <br>
+At the beginning of this work, Triggel's presentation for this project can be found here: https://www.samba.org/ftp/samba/slides/samba4_auug.pdf <br>
 
 **A Note from History:** <br>
 In 2004, the European Commission, characterizing Active Directory as a network software, subjected Microsoft to a requirement to disclose and publish its specifications due to the abuse of market dominance according to competition law. <br>
