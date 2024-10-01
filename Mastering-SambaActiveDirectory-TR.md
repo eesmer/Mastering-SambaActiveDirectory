@@ -289,3 +289,8 @@ Her ikisi de kullanıcı, grup, bilgisayar ve diğer dizin objelerini yönetmek 
 **Microsoft Active Directory**'de, tüm dizin hizmeti bilgileri (kullanıcılar, gruplar, bilgisayar hesapları, güvenlik politikaları vb.) **NTDS.dit** (New Technology Directory Services) dosyasında tutulur. <br>
 **Samba Active Directory**'de, NTDS.dit dosyasına doğrudan bir karşılık yoktur. Bunun yerine, Samba AD LDAP tabanlı bir sistem kullanır ve bilgiler **sam.ldb** gibi çeşitli LDB dosyalarında tutulur.
 <br>
+SambaAD ortamında her biri belirli türdeki verileri saklamak ve yönetmek amacıyla tasarlanmış olan **.ldb** veritabanı dosyaları vardır. <br>
+SambaAD ortamındaki, örneğin; kullanıcılar, gruplar, yetkiler ve buna benzer yönetimsel ayarlar bu özel veritabanı dosyalarında tutulur. <br>
+Bu veritabanı dosyaları tümüyle Windows Active Directory ortamındaki **NTDS.dit** dosyasına karşılık gelir. <br>
+<br>
+Samba, LDB formatını kullanır ve veriler genellikle LDAP benzeri bir yapı ile yönetilir. <br>
