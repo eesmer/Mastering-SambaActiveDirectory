@@ -279,3 +279,6 @@ https://en.wikipedia.org/wiki/Neelie_Kroes <br>
 Microsoft, karar gereği resmi olarak Active Directory spesifikasyonlarının belgelendirme ve yayınını yapsa da söz konusu belgelerden Samba4 sürümü geliştirme sürecinde yararlanılamamıştır. <br>
 <br>
 ## Bölüm-3: Samba Active Directory Yapısı ve Microsoft AD ile Karşılaştırılması
+Bu başlıkta Samba Active Directory ortamının temel yapısından bahsedeceğiz. <br>
+Microsoft AD ile temel yapısal farklara da değinerek SambaAD hakkında yeteri kadar fikir sahibi olacağız. <br>
+<br>
