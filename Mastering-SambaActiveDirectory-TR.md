@@ -264,3 +264,8 @@ Samba yazılımı ilk 3 sürümünde dosya ve yazıcı paylaşım hizmetleri iş
 2012 Aralık ayında bakımı yapılmış Samba3 kodu üzerine Active Directory işlevi eklenerek Samba 4.0.0 kararlı sürümü yayınlandı. <br>
 <br>
 https://www.samba.org/samba/history/samba-4.0.0.html
+<br>
+
+Teşekkürler.. https://www.samba.org/samba/team/ <br>
+Bu çalışmanın başlangıcında Triggel’in söz konusu çalışma için yaptığı sunum; <br>
+https://www.samba.org/ftp/samba/slides/samba4_auug.pdf
