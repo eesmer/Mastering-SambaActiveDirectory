@@ -260,4 +260,5 @@ Samba yazılımı ilk 3 sürümünde dosya ve yazıcı paylaşım hizmetleri iş
     • The Active Directory component – Active Directory bileşeni <br>
     • The file sharing smbd component – smbd ve File Sharing <br>
     • The user mapping winbindd component - winbindd bileşeni ile User Mapping <br>
+    
 <br>
