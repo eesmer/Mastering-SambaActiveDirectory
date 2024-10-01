@@ -276,3 +276,6 @@ Bu yargı kararı ve bunu savunan komisyon üyesi Neelie Kroes’un desteği, a�
 https://en.wikipedia.org/wiki/Microsoft_Corp._v._Commission <br>
 https://en.wikipedia.org/wiki/Neelie_Kroes <br>
 <br>
+Microsoft, karar gereği resmi olarak Active Directory spesifikasyonlarının belgelendirme ve yayınını yapsa da söz konusu belgelerden Samba4 sürümü geliştirme sürecinde yararlanılamamıştır. <br>
+<br>
+## Bölüm-3: Samba Active Directory Yapısı ve Microsoft AD ile Karşılaştırılması
