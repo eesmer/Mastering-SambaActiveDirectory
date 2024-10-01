@@ -285,7 +285,6 @@ Böylece SambaAD hakkında yeterli bir fikir sahibi olacaksınız. <br>
 <br>
 Hem Samba Active Directory hem de Microsoft Active Directory, kullanıcı, grup, bilgisayar ve diğer dizin objelerini yönetmek için çeşitli veritabanı dosyalarını kullanan sistemlerdir. <br>
 Temel olarak her ikisi de veritabanı ve dizin yapıları üzerine inşa edilmiştir. Ancak, bu iki sistemin veri yönetimi ve dosya yapısı açısından bazı önemli farklılıkları vardır. <br>
-
 <br>
 **Microsoft Active Directory**'de, tüm dizin hizmeti bilgileri (kullanıcılar, gruplar, bilgisayar hesapları, güvenlik politikaları vb.) **NTDS.dit** (New Technology Directory Services) dosyasında tutulur. <br>
 **Samba Active Directory**'de, NTDS.dit dosyasına doğrudan bir karşılık yoktur. Bunun yerine Samba AD, LDAP (Lightweight Directory Access Protocol) tabanlı bir sistem kullanır ve bilgiler **sam.ldb** gibi çeşitli LDB dosyalarında tutulur. <br>
