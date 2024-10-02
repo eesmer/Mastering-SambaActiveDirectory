@@ -7,6 +7,7 @@
 - [**Chapter-2:** Active Directory Concepts](#Active-Directory-Concepts)
 - [**2-** Samba Active Directory](#Samba-Active-Directory)
 - [**Chapter-3:** Samba Active Directory Structure and Comparison with Microsoft AD](#Samba-Active-Directory-Structure-and-Comparison-with-Microsoft-AD)
+- [**Chapter-4:** Samba Active Directory Database Structure](#Samba-Active-Directory-Database-Structure)
 
 ---
 
