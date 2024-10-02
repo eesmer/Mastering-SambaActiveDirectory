@@ -295,7 +295,17 @@ SambaAD ortamında her biri belirli türdeki verileri saklamak ve yönetmek amac
 SambaAD ortamındaki, örneğin; kullanıcılar, gruplar, yetkiler ve buna benzer yönetimsel ayarlar bu özel veritabanı dosyalarında tutulur. <br>
 Bu veritabanı dosyaları tümüyle Windows Active Directory ortamındaki **NTDS.dit** dosyasına karşılık gelir. <br>
 
-## Bölüm-4: Samba Active Directory Veritabanı Yapısı
 Samba, LDB formatını kullanır ve veriler genellikle LDAP benzeri bir yapı ile yönetilir. <br>
 <br>
-SambaAD verileri LDB formatında saklar ve veriler LDAP benzeri bir yapıyla yönetilir. Bu, Samba'nın Microsoft Active Directory'ye açık kaynaklı bir alternatif sunarken, kendi veritabanı yapısıyla yönetim esnekliği sağladığı anlamına gelir.
+SambaAD verileri LDB formatında saklar ve veriler LDAP benzeri bir yapıyla yönetilir. Bu, Samba'nın Microsoft Active Directory'ye açık kaynaklı bir alternatif sunarken, kendi veritabanı yapısıyla yönetim esnekliği sağladığı anlamına gelir. <br>
+
+## Bölüm-4: Samba Active Directory Veritabanı Yapısı
+- ### sam.ldb
+Samba AD'de kullanıcılar, gruplar, bilgisayarlar ve diğer dizin objelerinin saklandığı ana veritabanıdır. <br>
+Bu veritabanı, AD objelerinin ve dizin bilgilerinin saklandığı temel dosyadır. <br>
+Microsoft Active Directory NTDS.dit dosyasına karşılık gelir. Genellikle /var/lib/samba/private/sam.ldb dizininde bulunur.
+
+- ### secrets.ldb
+Samba tarafından kullanılan şifrelerin, özellikle Kerberos anahtarlarının ve diğer güvenlik bilgileriyle ilgili hassas verilerin saklandığı veritabanıdır. <br>
+Ayrıca makine hesap şifrelerini ve Active Directory Domain Controller sunucularının güvenlik ilişkilerini saklar. <br>
+Bu dosya, özellikle DC'ler arasında güvenli iletişimi sağlamak için önemlidir.
