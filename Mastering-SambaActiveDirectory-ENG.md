@@ -287,4 +287,14 @@ For example, users, groups, permissions, and other administrative settings are s
 While these files perform a similar function to the NTDS.dit file in Windows Active Directory, they use a different format and structure. <br>
 <br>
 SambaAD stores data in the LDB format, and the data is managed through an LDAP-like structure. <br>
-This means that while Samba offers an open-source alternative to Microsoft Active Directory, it also provides flexibility in how its database structure is managed.
+This means that while Samba offers an open-source alternative to Microsoft Active Directory, it also provides flexibility in how its database structure is managed. <br>
+
+## Chapter-4: Samba Active Directory Database Structure
+- ### sam.ldb
+In Samba AD, this is the main database where users, groups, computers, and other directory objects are stored. It serves as the core file where AD objects and directory information are maintained. <br>
+It corresponds to the NTDS.dit file in Microsoft Active Directory <br>
+It is typically located in the directory /var/lib/samba/private/sam.ldb <br>
+
+- ### secrets.ldb
+This database stores the passwords used by Samba, particularly Kerberos keys and sensitive data related to other security information. <br>
+It also holds machine account passwords and the security relationships of Active Directory Domain Controller servers. This file is crucial for ensuring secure communication between DCs. <br>
