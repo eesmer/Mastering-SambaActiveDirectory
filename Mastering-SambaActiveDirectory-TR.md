@@ -323,3 +323,8 @@ Kullanıcıların ve grupların sahip olduğu yönetici haklarını ve ayrıcal�
 Unix sistemleri ile Windows grupları arasındaki ilişkiyi yönetir. <br>
 Bir AD grubunun Unix'te hangi gruba denk geldiğini, grup kimliklerinin nasıl eşleştirildiğini ve bu grupların POSIX (Unix/Linux) sistemlerinde nasıl temsil edildiğini belirler. <br>
 Özellikle Samba'nın dosya paylaşımlarında, Windows grupları ile Unix grupları arasındaki uyumu sağlar.
+
+- ### idmap.ldb
+Unix ve Windows kullanıcıları/grupları arasında kimlik eşlemesi için kullanılır. <br>
+Active Directory'deki kullanıcılar ve gruplar Unix sistemlerine bağlandığında, her birinin karşılık gelen bir UID ve GID'si olmalıdır. <br>
+idmap.ldb, bu kimliklerin nasıl yönetildiğini, hangi aralıkların kullanıldığını ve UID/GID eşlemelerini düzenler.
