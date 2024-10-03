@@ -298,3 +298,11 @@ It is typically located in the directory /var/lib/samba/private/sam.ldb <br>
 - ### secrets.ldb
 This database stores the passwords used by Samba, particularly Kerberos keys and sensitive data related to other security information. <br>
 It also holds machine account passwords and the security relationships of Active Directory Domain Controller servers. This file is crucial for ensuring secure communication between DCs. <br>
+
+- ## privilege.ldb
+Determines the administrative rights and privileges that users and groups have.
+For example, this file determines which users are in the Domain Admins group or which users are authorised to perform certain administrative tasks. Tasks such as managing privileged accounts in Windows are tracked here.
+
+- ## group_mapping.ldb
+Manages the relationship between Unix systems and Windows groups. That is, it determines which group an AD group corresponds to in Unix, how group IDs are mapped, and how these groups are represented on POSIX (Unix/Linux) systems.
+It ensures compatibility between Windows groups and Unix groups, especially in Samba file sharing.
