@@ -328,3 +328,14 @@ Bir AD grubunun Unix'te hangi gruba denk geldiğini, grup kimliklerinin nasıl e
 Unix ve Windows kullanıcıları/grupları arasında kimlik eşlemesi için kullanılır. <br>
 Active Directory'deki kullanıcılar ve gruplar Unix sistemlerine bağlandığında, her birinin karşılık gelen bir UID ve GID'si olmalıdır. <br>
 idmap.ldb, bu kimliklerin nasıl yönetildiğini, hangi aralıkların kullanıldığını ve UID/GID eşlemelerini düzenler.
+
+---
+
+- ### Veri Depolama Formatı
+    • Microsoft AD: ESE (Extensible Storage Engine) tabanlı bir veritabanı kullanır. <br>
+    • Samba AD: LDB (LDAP Database) formatında verileri depolar. LDB, LDAP'ı temel alır ve Samba'nın dizin hizmetleri için optimize edilmiştir. <br>
+    
+- ### Replikasyon
+    • Microsoft AD, NTDS.dit veritabanını kullanarak domain controller'lar arasında verilerin replikasyonu yapılır. FRS veya DFS-R kullanılarak SYSVOL paylaşımı replikasyonu sağlanır. <br>
+    • Samba AD, KCC'yi kullanarak replikasyonu yönetir ve LDB dosyaları üzerinden veri tutarlılığını sağlar. <br>
+    <br>
