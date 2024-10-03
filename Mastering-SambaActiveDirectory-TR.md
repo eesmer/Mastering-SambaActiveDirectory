@@ -332,12 +332,12 @@ idmap.ldb, bu kimliklerin nasıl yönetildiğini, hangi aralıkların kullanıld
 ---
 
 - ### Veri Depolama Formatı
-            • Microsoft AD: ESE (Extensible Storage Engine) tabanlı bir veritabanı kullanır. <br>
-            • Samba AD: LDB (LDAP Database) formatında verileri depolar. LDB, LDAP'ı temel alır ve Samba'nın dizin hizmetleri için optimize edilmiştir. <br>
+  • Microsoft AD: ESE (Extensible Storage Engine) tabanlı bir veritabanı kullanır. <br>
+  • Samba AD: LDB (LDAP Database) formatında verileri depolar. LDB, LDAP'ı temel alır ve Samba'nın dizin hizmetleri için optimize edilmiştir. <br>
     
 - ### Replikasyon
-            • Microsoft AD, NTDS.dit veritabanını kullanarak domain controller'lar arasında verilerin replikasyonu yapılır. FRS veya DFS-R kullanılarak SYSVOL paylaşımı replikasyonu sağlanır. <br>
-            • Samba AD, KCC'yi kullanarak replikasyonu yönetir ve LDB dosyaları üzerinden veri tutarlılığını sağlar. <br>
+   • Microsoft AD, NTDS.dit veritabanını kullanarak domain controller'lar arasında verilerin replikasyonu yapılır. FRS veya DFS-R kullanılarak SYSVOL paylaşımı replikasyonu sağlanır. <br>
+   • Samba AD, KCC'yi kullanarak replikasyonu yönetir ve LDB dosyaları üzerinden veri tutarlılığını sağlar. <br>
 
 - ### KCC (Knowledge Consistency Checker)
 KCC, Active Directory'de replikasyon topolojisini dinamik olarak oluşturan ve yöneten bir mekanizmadır. <br>
@@ -345,8 +345,8 @@ Her bir DC'nin diğerleriyle veri senkronizasyonu yapmasını sağlar. <br>
 KCC'nin temel işlevi, AD'deki tüm verilerin tutarlı kalmasını sağlamak için DC'ler arasında replikasyon bağlantıları kurmaktır. <br>
 Replikasyonun düzgün çalışması, Active Directory'nin güvenilirliği ve tutarlılığı açısından kritik öneme sahiptir. <br>
 <br>
-            • Dinamik olarak replikasyon topolojisi oluşturur. <br>
-            • Oluşturulan topolojiyi (öntanımlı 15 dakikada bir) kontrol eder. <br>
-            • Ortama DC eklenmiş veya çıkarılmışsa topolojiyi günceller. <br>
-            • Connection Objects oluşturur. Bu bağlantı objesi ile DC sunucular birbirine kopyalayacağı dizin, bölüm vb alanları tutar. <br>
+    • Dinamik olarak replikasyon topolojisi oluşturur. <br>
+    • Oluşturulan topolojiyi (öntanımlı 15 dakikada bir) kontrol eder. <br>
+    • Ortama DC eklenmiş veya çıkarılmışsa topolojiyi günceller. <br>
+    • Connection Objects oluşturur. Bu bağlantı objesi ile DC sunucular birbirine kopyalayacağı dizin, bölüm vb alanları tutar. <br>
 <br>
