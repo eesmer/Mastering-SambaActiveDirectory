@@ -339,3 +339,13 @@ idmap.ldb, bu kimliklerin nasıl yönetildiğini, hangi aralıkların kullanıld
     • Microsoft AD, NTDS.dit veritabanını kullanarak domain controller'lar arasında verilerin replikasyonu yapılır. FRS veya DFS-R kullanılarak SYSVOL paylaşımı replikasyonu sağlanır. <br>
     • Samba AD, KCC'yi kullanarak replikasyonu yönetir ve LDB dosyaları üzerinden veri tutarlılığını sağlar. <br>
     <br>
+
+- ### KCC (Knowledge Consistency Checker)
+KCC, Active Directory'de replikasyon topolojisini dinamik olarak oluşturan ve yöneten bir mekanizmadır. <br>
+Her bir DC'nin diğerleriyle veri senkronizasyonu yapmasını sağlar. KCC'nin temel işlevi, AD'deki tüm verilerin tutarlı kalmasını sağlamak için DC'ler arasında replikasyon bağlantıları kurmaktır.
+Replikasyonun düzgün çalışması, Active Directory'nin güvenilirliği ve tutarlılığı açısından kritik öneme sahiptir. <br>
+            ▪ Dinamik olarak replikasyon topolojisi oluşturur. <br>
+            ▪ Oluşturulan topolojiyi (öntanımlı 15 dakikada bir) kontrol eder. <br>
+Ortama DC eklenmiş veya çıkarılmışsa topolojiyi günceller. <br>
+            ▪ Connection Objects oluşturur. Bu bağlantı objesi ile DC sunucular hangi dizin, bölüm vb alanları birbirine kopyalayacağı tutulur. <br>
+<br>
