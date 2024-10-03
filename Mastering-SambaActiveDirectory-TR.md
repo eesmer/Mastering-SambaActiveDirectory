@@ -314,3 +314,12 @@ Bu dosya, özellikle DC'ler arasında güvenli iletişimi sağlamak için öneml
 AD ortamında DNS kayıtlarını yönetmek için kullanılır.
 Samba AD dahili DNS sunucusunu kullanıyorsa, (dns-backend=SAMBA_INTERNAL) DNS kayıtları dns.ldb dosyasında saklanır.
 Eğer DNS, BIND9_DLZ moduyla kullanılıyorsa, BIND için dinamik DNS kayıtlarını buradan çeker.
+
+- ### privilege.ldb
+Kullanıcıların ve grupların sahip olduğu yönetici haklarını ve ayrıcalıklarını belirler. <br>
+Örneğin, hangi kullanıcıların Domain Admins grubunda olduğunu veya hangi kullanıcıların belirli yönetimsel görevleri yerine getirme yetkisine sahip olduğunu bu dosya belirler.
+
+- ### group_mapping.ldb
+Unix sistemleri ile Windows grupları arasındaki ilişkiyi yönetir. <br>
+Bir AD grubunun Unix'te hangi gruba denk geldiğini, grup kimliklerinin nasıl eşleştirildiğini ve bu grupların POSIX (Unix/Linux) sistemlerinde nasıl temsil edildiğini belirler. <br>
+Özellikle Samba'nın dosya paylaşımlarında, Windows grupları ile Unix grupları arasındaki uyumu sağlar.
