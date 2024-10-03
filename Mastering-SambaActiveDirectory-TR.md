@@ -309,3 +309,8 @@ Microsoft Active Directory NTDS.dit dosyasına karşılık gelir. Genellikle /va
 Samba tarafından kullanılan şifrelerin, özellikle Kerberos anahtarlarının ve diğer güvenlik bilgileriyle ilgili hassas verilerin saklandığı veritabanıdır. <br>
 Ayrıca makine hesap şifrelerini ve Active Directory Domain Controller sunucularının güvenlik ilişkilerini saklar. <br>
 Bu dosya, özellikle DC'ler arasında güvenli iletişimi sağlamak için önemlidir.
+
+- ### dns.ldb
+AD ortamında DNS kayıtlarını yönetmek için kullanılır.
+Samba AD dahili DNS sunucusunu kullanıyorsa, (dns-backend=SAMBA_INTERNAL) DNS kayıtları dns.ldb dosyasında saklanır.
+Eğer DNS, BIND9_DLZ moduyla kullanılıyorsa, BIND için dinamik DNS kayıtlarını buradan çeker.
