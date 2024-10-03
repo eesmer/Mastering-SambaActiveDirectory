@@ -309,3 +309,8 @@ For example, this file determines which users are in the Domain Admins group or 
 - ## group_mapping.ldb
 Manages the relationship between Unix systems and Windows groups. That is, it determines which group an AD group corresponds to in Unix, how group IDs are mapped, and how these groups are represented on POSIX (Unix/Linux) systems.
 It ensures compatibility between Windows groups and Unix groups, especially in Samba file sharing.
+
+- ### idmap.ldb
+Used for identity mapping between Unix and Windows users/groups. <br>
+When users and groups in Active Directory connect to Unix systems, each must have a corresponding UID and GID. <br>
+idmap.ldb organises how these identities are managed, what ranges are used, and the UID/GID mappings.
