@@ -299,6 +299,9 @@ It is typically located in the directory /var/lib/samba/private/sam.ldb <br>
 This database stores the passwords used by Samba, particularly Kerberos keys and sensitive data related to other security information. <br>
 It also holds machine account passwords and the security relationships of Active Directory Domain Controller servers. This file is crucial for ensuring secure communication between DCs. <br>
 
+- ### dns.ldb
+It is used to manage DNS records in AD environment. If Samba AD uses the internal DNS server (dns-backend=SAMBA_INTERNAL), DNS records are stored in the dns.ldb file. If DNS is used with BIND9_DLZ mode, it pulls dynamic DNS records for BIND from here.
+
 - ## privilege.ldb
 Determines the administrative rights and privileges that users and groups have.
 For example, this file determines which users are in the Domain Admins group or which users are authorised to perform certain administrative tasks. Tasks such as managing privileged accounts in Windows are tracked here.
