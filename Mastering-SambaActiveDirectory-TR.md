@@ -342,7 +342,6 @@ idmap.ldb, bu kimliklerin nasıl yönetildiğini, hangi aralıkların kullanıld
 
 - ### KCC (Knowledge Consistency Checker)
 KCC, Active Directory'de replikasyon topolojisini dinamik olarak oluşturan ve yöneten bir mekanizmadır. <br>
-<br>
 Her bir DC'nin diğerleriyle veri senkronizasyonu yapmasını sağlar. <br>
 KCC'nin temel işlevi, AD'deki tüm verilerin tutarlı kalmasını sağlamak için DC'ler arasında replikasyon bağlantıları kurmaktır. <br>
 Replikasyonun düzgün çalışması, Active Directory'nin güvenilirliği ve tutarlılığı açısından kritik öneme sahiptir. <br>
