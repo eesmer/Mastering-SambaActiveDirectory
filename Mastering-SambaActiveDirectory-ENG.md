@@ -302,11 +302,11 @@ It also holds machine account passwords and the security relationships of Active
 - ### dns.ldb
 It is used to manage DNS records in AD environment. If Samba AD uses the internal DNS server (dns-backend=SAMBA_INTERNAL), DNS records are stored in the dns.ldb file. If DNS is used with BIND9_DLZ mode, it pulls dynamic DNS records for BIND from here.
 
-- ## privilege.ldb
+- ### privilege.ldb
 Determines the administrative rights and privileges that users and groups have.
 For example, this file determines which users are in the Domain Admins group or which users are authorised to perform certain administrative tasks. Tasks such as managing privileged accounts in Windows are tracked here.
 
-- ## group_mapping.ldb
+- ### group_mapping.ldb
 Manages the relationship between Unix systems and Windows groups. That is, it determines which group an AD group corresponds to in Unix, how group IDs are mapped, and how these groups are represented on POSIX (Unix/Linux) systems.
 It ensures compatibility between Windows groups and Unix groups, especially in Samba file sharing.
 
