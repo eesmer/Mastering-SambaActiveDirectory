@@ -356,6 +356,8 @@ Replikasyonun düzgün çalışması, Active Directory'nin güvenilirliği ve tu
     • Ortama DC eklenmiş veya çıkarılmışsa topolojiyi günceller. <br>
     • Connection Objects oluşturur. Bu bağlantı objesi ile DC sunucular birbirine kopyalayacağı dizin, bölüm vb alanları tutar. <br>
 
+---
+
 - ### Samba Active Directory ve Functional Level Seviyeleri
 Functional Level seviyeleri, bir AD etki alanının belirli özelliklerinin etkin olup olmadığını ve hangi minimum işletim sistemlerinin kullanılabileceğini belirler. <br>
 Samba AD, Microsoft AD'ye benzer şekilde Domain Functional Level (DFL) ve Forest Functional Level (FFL) konseptlerini kullanır. <br>
