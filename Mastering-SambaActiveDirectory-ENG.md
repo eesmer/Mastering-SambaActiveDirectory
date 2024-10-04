@@ -339,6 +339,6 @@ The proper functioning of replication is critical for the reliability and consis
 <br>
 ▪ Dynamically creates a replication topology <br>
 ▪ Checks the created topology (default every 15 minutes) <br>
-Updates the topology if a DC is added or removed from the environment <br1>
+▪ Updates the topology if a DC is added or removed from the environment <br>
 ▪ Creates Connection Objects. This connection object keeps track of which directories, partitions, etc. the DC servers will copy to each other <br>
 <br>
