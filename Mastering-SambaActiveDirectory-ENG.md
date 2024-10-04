@@ -314,3 +314,11 @@ It ensures compatibility between Windows groups and Unix groups, especially in S
 Used for identity mapping between Unix and Windows users/groups. <br>
 When users and groups in Active Directory connect to Unix systems, each must have a corresponding UID and GID. <br>
 idmap.ldb organises how these identities are managed, what ranges are used, and the UID/GID mappings.
+
+- ### Data Storage Format
+    • Microsoft AD: Uses a database based on ESE (Extensible Storage Engine). <br>
+    • Samba AD: Stores data in LDB (LDAP Database) format. LDB is based on LDAP and is optimized for Samba's directory services. <br>
+
+- ### Replication
+    • Microsoft AD replicates data between Domain Controller servers using the NTDS.dit database. SYSVOL share replication is provided using FRS or DFS-R. <br>
+    • Samba AD manages replication using KCC and ensures data consistency over LDB files. <br>
