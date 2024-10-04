@@ -315,8 +315,8 @@ Bugün için daha yüksek seviyelerde bazı özellikler eksik olabilir. (BKZ. Sa
 Fonksiyonel seviyeler, Samba AD'nin desteklediği özellikleri ve işlevleri belirler. <br>
 Samba AD'de de domain ve forest seviyeleri belirli sürüm ve özelliklerle uyumlu olarak yapılandırılır. <br>
 <br>
-    • Domain Functional Level: Samba'nın desteklediği domain fonksiyonel seviyesini belirler. <br>
-    • Samba Forest Functional Level:  Forest seviyesinde tüm Domain ortamlarının özellik ve seviyesini belirler. <br>
+    • **Domain Functional Level:** Samba'nın desteklediği domain fonksiyonel seviyesini belirler. <br>
+    • **Samba Forest Functional Level:** Forest seviyesinde tüm Domain ortamlarının özellik ve seviyesini belirler. <br>
 
 ## Bölüm-4:
 ## Samba Active Directory Veritabanı Yapısı
