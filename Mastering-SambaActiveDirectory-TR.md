@@ -8,6 +8,7 @@
 - [**Bölüm-2:** Active Directory Kavramları](#Active-Directory-Kavramları)
 - [**2-** Samba Active Directory](#Samba-Active-Directory)
 - [**Bölüm-3:** Samba Active Directory Yapısı ve Microsoft AD ile Karşılaştırılması ](#Samba-Active-Directory-Yapisi)
+- [Belgenin Yapısı ve Kullanımı](#Samba-Active-Directory-Yapisi)
 - [**Bölüm-4:** Samba Active Directory Veritabanı Yapısı](#Samba-Active-Directory-Veritabani-Yapısı)
 
 ## Önsöz
