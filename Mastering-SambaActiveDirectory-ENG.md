@@ -331,3 +331,14 @@ idmap.ldb organises how these identities are managed, what ranges are used, and 
 - ### Replication
     • Microsoft AD replicates data between Domain Controller servers using the NTDS.dit database. SYSVOL share replication is provided using FRS or DFS-R. <br>
     • Samba AD manages replication using KCC and ensures data consistency over LDB files. <br>
+
+- ### KCC (Knowledge Consistency Checker)
+KCC is a mechanism that dynamically creates and manages the replication topology in Active Directory. <br>
+It allows each DC to synchronize data with others. The main function of KCC is to establish replication connections between DCs to ensure that all data in AD remains consistent. <br>
+The proper functioning of replication is critical for the reliability and consistency of Active Directory. <br>
+<br>
+▪ Dynamically creates a replication topology <br>
+▪ Checks the created topology (default every 15 minutes) <br>
+Updates the topology if a DC is added or removed from the environment <br1
+▪ Creates Connection Objects. This connection object keeps track of which directories, partitions, etc. the DC servers will copy to each other <br>
+<br>
