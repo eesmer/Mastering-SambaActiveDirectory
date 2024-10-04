@@ -305,7 +305,7 @@ SambaAD verileri LDB formatında saklar ve veriler LDAP benzeri bir yapıyla yö
 
 ---
 
-- ### Samba Active Directory ve Functional Level Seviyeleri
+### Samba Active Directory ve Functional Level Seviyeleri
 Functional Level seviyeleri, bir AD etki alanının belirli özelliklerinin etkin olup olmadığını ve hangi minimum işletim sistemlerinin kullanılabileceğini belirler. <br>
 Samba AD, Microsoft AD'ye benzer şekilde Domain Functional Level (DFL) ve Forest Functional Level (FFL) konseptlerini kullanır. <br>
 <br>
