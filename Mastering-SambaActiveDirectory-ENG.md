@@ -294,6 +294,21 @@ While these files perform a similar function to the NTDS.dit file in Windows Act
 SambaAD stores data in the LDB format, and the data is managed through an LDAP-like structure. <br>
 This means that while Samba offers an open-source alternative to Microsoft Active Directory, it also provides flexibility in how its database structure is managed. <br>
 
+---
+
+### Samba Active Directory and Functional Levels
+Functional Levels determine whether certain features of an AD domain are enabled and what minimum operating systems can be used. <br>
+Samba AD uses the Domain Functional Level (DFL) and Forest Functional Level (FFL) concepts, similar to Microsoft AD. <br>
+<br>
+Samba AD generally supports functionality up to Windows Server 2008 R2. <br>
+Some features may be missing at higher levels today. (See Samba Releases) <br>
+<br>
+Functional levels determine the features and functions that Samba AD supports. <br>
+In Samba AD, domain and forest levels are also configured in accordance with specific versions and features. <br>
+
+• **Domain Functional Level:** Determines the domain functional level that Samba supports. <br>
+• **Forest Functional Level:** Determines the features and levels of all domain environments at the forest level. <br>
+
 ## Chapter-4:
 ## Samba Active Directory Database Structure
 
@@ -341,19 +356,3 @@ The proper functioning of replication is critical for the reliability and consis
 ▪ Checks the created topology (default every 15 minutes) <br>
 ▪ Updates the topology if a DC is added or removed from the environment <br>
 ▪ Creates Connection Objects. This connection object keeps track of which directories, partitions, etc. the DC servers will copy to each other <br>
-
----
-
-- ### Samba Active Directory and Functional Levels
-Functional Levels determine whether certain features of an AD domain are enabled and what minimum operating systems can be used. <br>
-Samba AD uses the Domain Functional Level (DFL) and Forest Functional Level (FFL) concepts, similar to Microsoft AD. <br>
-<br>
-Samba AD generally supports functionality up to Windows Server 2008 R2. <br>
-Some features may be missing at higher levels today. (See Samba Releases) <br>
-<br>
-Functional levels determine the features and functions that Samba AD supports. <br>
-In Samba AD, domain and forest levels are also configured in accordance with specific versions and features. <br>
-
-• Domain Functional Level: Determines the domain functional level that Samba supports. <br>
-• Samba Forest Functional Level: Determines the features and levels of all domain environments at the forest level. <br>
-<br>
