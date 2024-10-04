@@ -8,7 +8,7 @@
 - [**Bölüm-2:** Active Directory Kavramları](#Active-Directory-Kavramları)
 - [**2-** Samba Active Directory](#Samba-Active-Directory)
 - [**Bölüm-3:** Samba Active Directory Yapısı ve Microsoft AD ile Karşılaştırılması ](#Samba-Active-Directory-Yapısı-ve-Microsoft-Ad-ile-Kar%C5%9Fıla%C5%9Ftırılması)
-- [**Bölüm-4:** Samba Active Directory Veritabanı Yapısı](#Samba-Active-Directory-Veritabani-Yapısı)
+- [**Bölüm-4:** Samba Active Directory Veritabanı Yapısı](#Samba-Active-Directory-Veritabanı-Yapısı)
 
 ## Önsöz
 Samba yazılım paketi ile kurulan SambaAD, Microsoft Active Directory hizmetlerini sunmak üzere geliştirilen ve  GPLv3 lisansı ile dağıtılan bir açık kaynak yazılımdır. <br>
