@@ -60,7 +60,9 @@ In this section we will basically talk about Active Directory and its concepts. 
 With this section we will have detailed information about AD and AD environment. <br>
 <br>
 
-## Chapter-1: What is Active Directory?
+## Chapter-1:
+## What is Active Directory?
+
 Active Directory is a directory service for network users. <br>
 It stores information about the organisation, such as users, computers, printers, etc. Administrative restrictions can be created on all components and rules can be executed as required. <br>
 <br>
@@ -78,7 +80,9 @@ Active Directory was first released with Windows 2000 Server. It was developed w
 
 [wikipedia.org/Active Directory](https://en.wikipedia.org/wiki/Active_Directory)
 
-## Chapter-2: Active Directory Concepts
+## Chapter-2:
+## Active Directory Concepts
+
 If you want to get to grips with the overall structure of an Active Directory (AD) or Samba AD environment, it's really important to understand the basic concepts. <br>
 <br>
 
@@ -185,7 +189,6 @@ The user session is opened and authorisation and access from policies such as pr
 
 <br>
 
-
 ◦ **Security ID (SID)** <br>
 An information (username, computer) created in the domain environment SID is a unique identifier created for each user, group and computer object in the domain environment to be used in security and access controls. <br>
 ◦ **Access Token** <br>
@@ -272,7 +275,9 @@ https://en.wikipedia.org/wiki/Neelie_Kroes <br>
 <br>
 Although Microsoft officially documented and published the specifications for Active Directory as required by the ruling, these documents could not be utilized during the development process of the Samba 4 version. <br>
 
-## Chapter-3: Samba Active Directory Structure and Comparison with Microsoft AD
+## Chapter-3:
+## Samba Active Directory Structure and Comparison with Microsoft AD
+
 In this section, we will discuss the basic structure of the Samba Active Directory (SambaAD) environment and the differences between it and Microsoft Active Directory (AD). <br>
 By doing so, you will gain a clear understanding of SambaAD. <br>
 <br>
@@ -289,7 +294,9 @@ While these files perform a similar function to the NTDS.dit file in Windows Act
 SambaAD stores data in the LDB format, and the data is managed through an LDAP-like structure. <br>
 This means that while Samba offers an open-source alternative to Microsoft Active Directory, it also provides flexibility in how its database structure is managed. <br>
 
-## Chapter-4: Samba Active Directory Database Structure
+## Chapter-4:
+## Samba Active Directory Database Structure
+
 - ### sam.ldb
 In Samba AD, this is the main database where users, groups, computers, and other directory objects are stored. It serves as the core file where AD objects and directory information are maintained. <br>
 It corresponds to the NTDS.dit file in Microsoft Active Directory <br>
