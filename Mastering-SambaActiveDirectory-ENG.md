@@ -315,6 +315,8 @@ Used for identity mapping between Unix and Windows users/groups. <br>
 When users and groups in Active Directory connect to Unix systems, each must have a corresponding UID and GID. <br>
 idmap.ldb organises how these identities are managed, what ranges are used, and the UID/GID mappings.
 
+---
+
 - ### Data Storage Format
     • Microsoft AD: Uses a database based on ESE (Extensible Storage Engine). <br>
     • Samba AD: Stores data in LDB (LDAP Database) format. LDB is based on LDAP and is optimized for Samba's directory services. <br>
