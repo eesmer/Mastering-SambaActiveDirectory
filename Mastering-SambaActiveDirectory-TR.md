@@ -355,7 +355,6 @@ Replikasyonun düzgün çalışması, Active Directory'nin güvenilirliği ve tu
     • Oluşturulan topolojiyi (öntanımlı 15 dakikada bir) kontrol eder. <br>
     • Ortama DC eklenmiş veya çıkarılmışsa topolojiyi günceller. <br>
     • Connection Objects oluşturur. Bu bağlantı objesi ile DC sunucular birbirine kopyalayacağı dizin, bölüm vb alanları tutar. <br>
-<br>
 
 - ### Samba Active Directory ve Functional Level Seviyeleri
 Functional Level seviyeleri, bir AD etki alanının belirli özelliklerinin etkin olup olmadığını ve hangi minimum işletim sistemlerinin kullanılabileceğini belirler. <br>
