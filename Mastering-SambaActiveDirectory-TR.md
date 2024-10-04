@@ -61,7 +61,8 @@ Bu bölüm ile AD ve AD ortamı hakkında detaylı bilgi sahibi olacağız.
 
 <br>
 
-## Bölüm-1: Active Directory Nedir?
+## Bölüm-1:
+## Active Directory Nedir?
 Active Directory, ağ kullanıcıları için kaynak dizini görevi gören bir dizin hizmetidir. <br>
 Bu dizin hizmeti ile bir veritabanında kullanıcılar, bilgisayarlar, yazıcılar gibi organizasyonun tüm bilgileri saklanır. <br>
 Organizasyondaki tüm bileşenlere (bu esasında bir kimliktir) yönetimsel kısıtlamalar oluşturulabilir ve ihtiyaçlar doğrultusunda kurallar işletilebilir.
@@ -84,7 +85,8 @@ Sonuç olarak; kimlikle ilgili her iş, AD altında toplandı ve yönetildi. <br
 <br>
 [wikipedia.org/Active Directory](https://en.wikipedia.org/wiki/Active_Directory)
 
-## Bölüm-2: Active Directory Kavramları
+## Bölüm-2:
+## Active Directory Kavramları
 Active Directory (AD) veya Samba Active Directory ortamlarında, temel kavramların anlaşılması ortamın genel yapısının kavranması için oldukça önemlidir. <br>
 <br>
 
@@ -279,9 +281,10 @@ https://en.wikipedia.org/wiki/Microsoft_Corp._v._Commission <br>
 https://en.wikipedia.org/wiki/Neelie_Kroes <br>
 <br>
 Microsoft, karar gereği resmi olarak Active Directory spesifikasyonlarının belgelendirme ve yayınını yapsa da söz konusu belgelerden Samba4 sürümü geliştirme sürecinde yararlanılamamıştır. <br>
-<br>
+
 ## Bölüm-3: 
 ## Samba Active Directory Yapısı ve Microsoft AD ile Karşılaştırılması
+
 Bu bölümde, Samba Active Directory (SambaAD) ortamının temel yapısından ve Microsoft Active Directory (AD) ile arasındaki farklardan bahsedeceğiz. <br>
 Böylece SambaAD hakkında yeterli bir fikir sahibi olacaksınız. <br>
 <br>
@@ -300,7 +303,9 @@ Samba, LDB formatını kullanır ve veriler genellikle LDAP benzeri bir yapı il
 <br>
 SambaAD verileri LDB formatında saklar ve veriler LDAP benzeri bir yapıyla yönetilir. Bu, Samba'nın Microsoft Active Directory'ye açık kaynaklı bir alternatif sunarken, kendi veritabanı yapısıyla yönetim esnekliği sağladığı anlamına gelir. <br>
 
-## Bölüm-4: Samba Active Directory Veritabanı Yapısı
+## Bölüm-4:
+## Samba Active Directory Veritabanı Yapısı
+
 - ### sam.ldb
 Samba AD'de kullanıcılar, gruplar, bilgisayarlar ve diğer dizin objelerinin saklandığı ana veritabanıdır. <br>
 Bu veritabanı, AD objelerinin ve dizin bilgilerinin saklandığı temel dosyadır. <br>
