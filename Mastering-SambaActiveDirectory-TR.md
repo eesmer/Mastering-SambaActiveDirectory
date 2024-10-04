@@ -363,5 +363,6 @@ Samba AD, Microsoft AD'ye benzer şekilde Domain Functional Level (DFL) ve Fores
 Samba AD, genellikle Windows Server 2008 R2 seviyesine kadar olan işlevselliği destekler. <br>
 Bugün için daha yüksek seviyelerde bazı özellikler eksik olabilir. (BKZ. Samba Releases) <br>
 <br>
-Fonksiyonel seviyeler, Samba AD'nin desteklediği özellikleri ve işlevleri belirler. Samba AD'de de domain ve forest seviyeleri belirli sürüm ve özelliklerle uyumlu olarak yapılandırılır. <br>
+Fonksiyonel seviyeler, Samba AD'nin desteklediği özellikleri ve işlevleri belirler. <br>
+Samba AD'de de domain ve forest seviyeleri belirli sürüm ve özelliklerle uyumlu olarak yapılandırılır. <br>
 
