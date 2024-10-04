@@ -303,6 +303,21 @@ Samba, LDB formatını kullanır ve veriler genellikle LDAP benzeri bir yapı il
 <br>
 SambaAD verileri LDB formatında saklar ve veriler LDAP benzeri bir yapıyla yönetilir. Bu, Samba'nın Microsoft Active Directory'ye açık kaynaklı bir alternatif sunarken, kendi veritabanı yapısıyla yönetim esnekliği sağladığı anlamına gelir. <br>
 
+---
+
+- ### Samba Active Directory ve Functional Level Seviyeleri
+Functional Level seviyeleri, bir AD etki alanının belirli özelliklerinin etkin olup olmadığını ve hangi minimum işletim sistemlerinin kullanılabileceğini belirler. <br>
+Samba AD, Microsoft AD'ye benzer şekilde Domain Functional Level (DFL) ve Forest Functional Level (FFL) konseptlerini kullanır. <br>
+<br>
+Samba AD, genellikle Windows Server 2008 R2 seviyesine kadar olan işlevselliği destekler. <br>
+Bugün için daha yüksek seviyelerde bazı özellikler eksik olabilir. (BKZ. Samba Releases) <br>
+<br>
+Fonksiyonel seviyeler, Samba AD'nin desteklediği özellikleri ve işlevleri belirler. <br>
+Samba AD'de de domain ve forest seviyeleri belirli sürüm ve özelliklerle uyumlu olarak yapılandırılır. <br>
+<br>
+    • Domain Functional Level: Samba'nın desteklediği domain fonksiyonel seviyesini belirler. <br>
+    • Samba Forest Functional Level:  Forest seviyesinde tüm Domain ortamlarının özellik ve seviyesini belirler. <br>
+
 ## Bölüm-4:
 ## Samba Active Directory Veritabanı Yapısı
 
@@ -355,19 +370,3 @@ Replikasyonun düzgün çalışması, Active Directory'nin güvenilirliği ve tu
     • Oluşturulan topolojiyi (öntanımlı 15 dakikada bir) kontrol eder. <br>
     • Ortama DC eklenmiş veya çıkarılmışsa topolojiyi günceller. <br>
     • Connection Objects oluşturur. Bu bağlantı objesi ile DC sunucular birbirine kopyalayacağı dizin, bölüm vb alanları tutar. <br>
-
----
-
-- ### Samba Active Directory ve Functional Level Seviyeleri
-Functional Level seviyeleri, bir AD etki alanının belirli özelliklerinin etkin olup olmadığını ve hangi minimum işletim sistemlerinin kullanılabileceğini belirler. <br>
-Samba AD, Microsoft AD'ye benzer şekilde Domain Functional Level (DFL) ve Forest Functional Level (FFL) konseptlerini kullanır. <br>
-<br>
-Samba AD, genellikle Windows Server 2008 R2 seviyesine kadar olan işlevselliği destekler. <br>
-Bugün için daha yüksek seviyelerde bazı özellikler eksik olabilir. (BKZ. Samba Releases) <br>
-<br>
-Fonksiyonel seviyeler, Samba AD'nin desteklediği özellikleri ve işlevleri belirler. <br>
-Samba AD'de de domain ve forest seviyeleri belirli sürüm ve özelliklerle uyumlu olarak yapılandırılır. <br>
-<br>
-    • Domain Functional Level: Samba'nın desteklediği domain fonksiyonel seviyesini belirler. <br>
-    • Samba Forest Functional Level:  Forest seviyesinde tüm Domain ortamlarının özellik ve seviyesini belirler. <br>
-<br>
