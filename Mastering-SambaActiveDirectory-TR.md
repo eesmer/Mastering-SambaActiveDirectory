@@ -39,7 +39,7 @@ Bu çalışma ile baştan Active Directory öğrenme ve Samba ile Active Directo
 <br>
 #### Teşekkür
 Bu çalışmada bu satırları yazmazsak olmaz. <br>
-Özellikle Samba proje ekibi ve [Andrew Triggel](https://www.samba.org/~tridge/)'e böylesine harika bir çalışma için çok teşekkürler.. <br>
+Özellikle [Samba Team](https://www.samba.org/samba/team/) ve [Andrew Triggel](https://www.samba.org/~tridge/)'e böylesine harika bir çalışma için çok teşekkürler.. <br>
 Samba4 çok büyük bir iş ve büyük bir başarıdır. <br>
 Bu çalışmadaki amaç; Samba kullanıcılarına ve tanıyıp kullanmak isteyenlere doküman ve düzenli çalışma notları verebilmektir. <br>
 
