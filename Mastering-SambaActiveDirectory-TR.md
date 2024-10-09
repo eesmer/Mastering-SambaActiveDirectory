@@ -36,7 +36,7 @@ Bu çalışma; <br>
 Active Directory kavramlarına temel olarak değinecek olsa da asıl amaç; <br>
 Üretim ortamı senaryoları ile kurulum, yapılandırma, bakım ve problem giderme gereksinimleri için SambaAD incelemesi ve pratik çalışmalarını yapmaktır. <br>
 Bu çalışma ile baştan Active Directory öğrenme ve Samba ile Active Directory ortamını kullanmayı tüm yönleriyle elde edeceksiniz. <br>
-<br>
+
 #### Teşekkür
 Bu çalışmada bu satırları yazmazsak olmaz. <br>
 Özellikle [Samba Team](https://www.samba.org/samba/team/) ve [Andrew Triggel](https://www.samba.org/~tridge/)'e böylesine harika bir çalışma için çok teşekkürler.. <br>
