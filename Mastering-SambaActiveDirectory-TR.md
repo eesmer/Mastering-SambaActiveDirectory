@@ -266,7 +266,7 @@ Samba yazılımı ilk 3 sürümünde dosya ve yazıcı paylaşım hizmetleri iş
 • The user mapping winbindd component - winbindd bileşeni ile User Mapping <br>
 <br>
 2012 Aralık ayında bakımı yapılmış Samba3 kodu üzerine Active Directory işlevi eklenerek Samba 4.0.0 kararlı sürümü yayınlandı. <br>
-<br>
+
 https://www.samba.org/samba/history/samba-4.0.0.html
 <br>
 
