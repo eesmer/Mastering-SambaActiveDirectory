@@ -1,5 +1,5 @@
 # Mastering Samba Active Directory
-### A comprehensive ebook for Samba Active Directory
+### A comprehensive ebook for Samba Active Directory and Domain Environment
 
 ![alt text](images/Samba_Logo.jpeg "Samba")
 
