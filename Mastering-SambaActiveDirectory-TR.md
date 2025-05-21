@@ -101,6 +101,8 @@ Forest içindeki tüm domain ortamları, ortak bir Global Catalog ve Schema payl
 
 - ### Schema
 Schema, Forset düzeyinde paylaşılan ve tüm Domain ortamlarında kullanılan nesne türlerini ve bunların özelliklerini tanımlar. <br>
+Active Directory ortamında şema, Aktif Dizindeki (yani Active Directory) tüm nesne türlerini (örneğin: kullanıcı, grup ,bilgisayar, GPO) <br>
+ve özelliklerini (attributes) tanımlayan ve tutan yapıdır. <br>
 
 - ### Global Catalog
 Forest içindeki tüm Domain ortamı nesnelerin bir kopyasını içerir ve arama yapıldığında hızlı erişim sağlar. <br>
