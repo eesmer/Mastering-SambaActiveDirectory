@@ -105,8 +105,8 @@ The schema basically contains 3 objects; <br>
 ▪ **Attributes:** givenName, sAMAccountName, userPrincipalName <br>
 ▪ **Syntaxes:** string, integer, boolean <br>
 
-For schema versions supported by Samba versions, see https://wiki.samba.org/index.php/AD_Schema_Version_Support
-For Microsoft Schema versions, see https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/active-directory-functional-levels#active-directory-schema-versions
+For schema versions supported by Samba versions, see https://wiki.samba.org/index.php/AD_Schema_Version_Support <br>
+For Microsoft Schema versions, see https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/active-directory-functional-levels#active-directory-schema-versions <br>
 
 
 - ### Global Catalog
