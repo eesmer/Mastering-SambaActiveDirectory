@@ -108,7 +108,8 @@ ve özelliklerini (attributes) tanımlayan ve tutan yapıdır. <br>
             ▪ **Classes (objectClasses):** user, group, computer <br>
             ▪ **Attributes:** givenName, sAMAccountName, userPrincipalName <br>
             ▪ **Syntaxes:** string, integer, boolean <br>
-<br>
+
+Samba sürümlerinin desteklediği şema sürümleri için bkz. https://wiki.samba.org/index.php/AD_Schema_Version_Support
 
 - ### Global Catalog
 Forest içindeki tüm Domain ortamı nesnelerin bir kopyasını içerir ve arama yapıldığında hızlı erişim sağlar. <br>
