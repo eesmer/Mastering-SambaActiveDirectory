@@ -2,3 +2,5 @@
 - Comparison table with Microsoft AD.
 - When is Samba AD useful?
 - When should you stick with Microsoft AD?
+- Sustainability
+- Update to the Samba AD schema.
