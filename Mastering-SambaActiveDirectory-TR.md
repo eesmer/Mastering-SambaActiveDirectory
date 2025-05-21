@@ -105,9 +105,9 @@ Active Directory ortamında şema, Aktif Dizindeki (yani Active Directory) tüm 
 ve özelliklerini (attributes) tanımlayan ve tutan yapıdır. <br>
 <br>
 Şema temel olarak 3 nesne içerir; <br>
-            ▪ Classes (objectClasses): user, group, computer <br>
-            ▪ Attributes: givenName, sAMAccountName, userPrincipalName <br>
-            ▪ Syntaxes: string, integer, boolean <br>
+            ▪ **Classes (objectClasses):** user, group, computer <br>
+            ▪ **Attributes:** givenName, sAMAccountName, userPrincipalName <br>
+            ▪ **Syntaxes:** string, integer, boolean <br>
 <br>
 
 - ### Global Catalog
