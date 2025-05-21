@@ -96,7 +96,9 @@ In Active Directory, a forest is the top-level logical structure. <br>
 A forest can have more than one domain, and they're all connected to each other with a trust relationship. All the domain environments in the forest use the same Global Catalog and Schema.
 
 - ### Schema
-This defines the object types and their properties that are shared at the forest level and used in all domain environments.
+This defines the object types and their properties that are shared at the forest level and used in all domain environments. <br>
+In an Active Directory environment, the schema contains all object types (for example: user, group, computer, GPO) <br>
+in the Active Directory and is the structure that defines/holds its properties (attributes).
 
 - ### Global Catalog
 This contains a copy of all domain environment objects in the forest and provides quick access when searched.
