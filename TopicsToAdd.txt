@@ -1,2 +1,4 @@
 - Samba Active Directory Production Environment Configurations
 - Comparison table with Microsoft AD.
+- When is Samba AD useful?
+- When should you stick with Microsoft AD?
