@@ -101,9 +101,9 @@ In an Active Directory environment, the schema contains all object types (for ex
 in the Active Directory and is the structure that defines/holds its properties (attributes).
 
 The schema basically contains 3 objects;
-Classes (objectClasses): user, group, computer
-Attributes: givenName, sAMAccountName, userPrincipalName
-Syntaxes: string, integer, boolean
+            ▪ **Classes (objectClasses):** user, group, computer <br>
+            ▪ **Attributes:** givenName, sAMAccountName, userPrincipalName <br>
+            ▪ **Syntaxes:** string, integer, boolean <br>
 
 For schema versions supported by Samba versions, see https://wiki.samba.org/index.php/AD_Schema_Version_Support
 For Microsoft Schema versions, see https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/active-directory-functional-levels#active-directory-schema-versions
