@@ -100,6 +100,15 @@ This defines the object types and their properties that are shared at the forest
 In an Active Directory environment, the schema contains all object types (for example: user, group, computer, GPO) <br>
 in the Active Directory and is the structure that defines/holds its properties (attributes).
 
+The schema basically contains 3 objects;
+Classes (objectClasses): user, group, computer
+Attributes: givenName, sAMAccountName, userPrincipalName
+Syntaxes: string, integer, boolean
+
+For schema versions supported by Samba versions, see https://wiki.samba.org/index.php/AD_Schema_Version_Support
+For Microsoft Schema versions, see https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/active-directory-functional-levels#active-directory-schema-versions
+
+
 - ### Global Catalog
 This contains a copy of all domain environment objects in the forest and provides quick access when searched.
 
