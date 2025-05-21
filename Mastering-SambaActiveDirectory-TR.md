@@ -104,9 +104,9 @@ Schema, Forset düzeyinde paylaşılan ve tüm Domain ortamlarında kullanılan 
 Active Directory ortamında şema, Aktif Dizindeki (yani Active Directory) tüm nesne türlerini (örneğin: kullanıcı, grup ,bilgisayar, GPO) <br>
 ve özelliklerini (attributes) tanımlayan ve tutan yapıdır. <br>
 Şema temel olarak 3 nesne içerir; <br>
-###### Classes (objectClasses): user, group, computer
-###### Attributes: givenName, sAMAccountName, userPrincipalName
-###### Syntaxes: string, integer, boolean
+            ▪ Classes (objectClasses): user, group, computer <br>
+            ▪ Attributes: givenName, sAMAccountName, userPrincipalName <br>
+            ▪ Syntaxes: string, integer, boolean <br>
 <br>
 
 - ### Global Catalog
