@@ -15,8 +15,8 @@ This work is intended to guide both beginners and experienced users through the 
 This document provides a comprehensive guide to creating, maintaining, and troubleshooting a Samba Active Directory environment.
 
 #### Available in the following languages:
-### [Mastering Samba Active Directory ebook Türkçe](https://github.com/eesmer/Mastering-SambaActiveDirectory/blob/master/Mastering-SambaActiveDirectory-TR.md)
-### [Mastering Samba Active Directory ebook English](https://github.com/eesmer/Mastering-SambaActiveDirectory/blob/master/Mastering-SambaActiveDirectory-ENG.md)
+### [Mastering Samba Active Directory ebook Türkçe](https://github.com/eesmer/Mastering-SambaActiveDirectory/blob/main/Mastering-SambaActiveDirectory-TR.md)
+### [Mastering Samba Active Directory ebook English](https://github.com/eesmer/Mastering-SambaActiveDirectory/blob/main/Mastering-SambaActiveDirectory-ENG.md)
 
 You can give feedback and contribute.
 
